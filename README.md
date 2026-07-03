@@ -1,96 +1,69 @@
-<h1 align="center">Vagner Ferreira</h1>
-
-<h3 align="center">
-Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS
-</h3>
+# 👨‍💻 Vagner Ferreira
 
 <p align="center">
-Transformo dados em soluções inteligentes utilizando Machine Learning, Estatística e Engenharia de Dados.
+<b>Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS</b>
+</p>
+
+<p align="center">
+Transformo dados em soluções inteligentes através de Machine Learning, Estatística e Engenharia de Dados.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-Sou Cientista de Dados com foco em desenvolvimento de soluções baseadas em dados, Machine Learning e Inteligência Artificial.
+Cientista de Dados com foco em desenvolvimento de soluções orientadas a dados, Machine Learning e Inteligência Artificial aplicada.
 
-Tenho experiência prática em:
+Atuo com todo o ciclo de dados: coleta, tratamento, modelagem, validação e deploy.
 
-- Análise exploratória de dados (EDA)
-- Modelagem preditiva com Machine Learning
-- Processamento de linguagem natural (NLP)
-- Engenharia de dados com Spark e AWS
-- Visualização e storytelling de dados
+### 🔎 Principais competências:
+- Análise Exploratória de Dados (EDA)
+- Modelagem Preditiva com Machine Learning
+- Processamento de Linguagem Natural (NLP)
+- Engenharia de Dados com Spark e AWS
+- Visualização de dados e storytelling
 - Deploy de modelos com Streamlit
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack Tecnológica
 
-### Linguagens
-- Python
-- SQL
+### 💻 Linguagens
+- Python  
+- SQL  
 
-### Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+### 📊 Data Science & ML
+- Pandas | NumPy  
+- Scikit-Learn  
+- Regressão | Classificação | Clusterização  
+- Feature Engineering | PCA  
+- Validação de Modelos  
 
-### Machine Learning
-- Scikit-Learn
-- Regressão
-- Classificação
-- Clusterização
-- Feature Engineering
-- PCA
-- Validação de modelos
+### ⚡ Big Data & Cloud
+- Apache Spark / PySpark  
+- AWS Glue  
+- Data Lake  
 
-### Big Data & Cloud
-- Apache Spark
-- PySpark
-- AWS Glue
-- Data Lake
-
-### Deploy
-- Streamlit
-- Git & GitHub
+### 📈 Visualização & Deploy
+- Matplotlib | Seaborn  
+- Streamlit  
+- Git & GitHub  
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏆 Skills Highlights
 
 <p align="center">
 
-<!-- DATA SCIENCE -->
 <img src="https://img.shields.io/badge/Data_Science-1f77b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge"/>
-
-<!-- MACHINE LEARNING -->
 <img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clustering-3F51B5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PCA-795548?style=for-the-badge"/>
-
-<!-- BIG DATA -->
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PySpark-E34F26?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Lake-2196F3?style=for-the-badge"/>
-
-<!-- CLOUD -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge"/>
-
-<!-- NLP -->
+<img src="https://img.shields.io/badge/Deep_Learning-8e44ad?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge"/>
-
-<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 
 </p>
 
@@ -98,36 +71,36 @@ Tenho experiência prática em:
 
 ## 🚀 Projetos em destaque
 
-> Repositórios selecionados demonstrando habilidades práticas em Ciência de Dados
+📌 Projetos práticos em Ciência de Dados:
 
-- 📊 Análise Exploratória de Dados (EDA)
-- 🤖 Modelos de Machine Learning (Classificação e Regressão)
-- 🧠 Processamento de Linguagem Natural (NLP)
-- ⚡ Pipeline de Big Data com Spark e AWS
-- 📈 Séries Temporais e previsão de dados
-- 🚀 Aplicações com Streamlit
+- 📊 Análise Exploratória de Dados (EDA) com insights de negócio  
+- 🤖 Modelos de Machine Learning para previsão e classificação  
+- 🧠 NLP aplicado a textos e automação de análise  
+- ⚡ Pipeline de Big Data com Spark e AWS  
+- 📈 Séries temporais e forecasting  
+- 🚀 Aplicações interativas com Streamlit  
 
 ---
 
 ## 🎓 Formação
 
-Formação Cientista de Dados — Alura
+**Cientista de Dados — Alura**
 
-Abrangendo:
+Conteúdo aplicado em:
 
-- Python para Data Science
-- Estatística aplicada
-- Machine Learning
-- NLP
-- Big Data (Spark / PySpark)
-- AWS e Data Lake
-- SQL
-- Visualização de dados
-- Streamlit
+- Python para Data Science  
+- Estatística e Probabilidade  
+- Machine Learning  
+- NLP  
+- Big Data (Spark / PySpark)  
+- AWS e Data Lake  
+- SQL Avançado  
+- Visualização de Dados  
+- Deploy de aplicações  
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -139,11 +112,11 @@ Abrangendo:
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/vagnerferreiradata
-- Email: vagnerkrg@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/vagnerferreiradata  
+- 📧 Email: vagnerkrg@gmail.com  
 
 ---
 
 <p align="center">
-⭐ Sempre evoluindo em Data Science, Machine Learning e Inteligência Artificial
+⭐ Evoluindo continuamente em Data Science, Machine Learning e Inteligência Artificial
 </p>
