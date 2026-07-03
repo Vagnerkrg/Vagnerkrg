@@ -60,7 +60,7 @@ coleta → tratamento → análise → modelagem → deploy.
 
 ### 🤖 Machine Learning
 
-<a href="LINK_CERTIFICADO_ML">
+<a href="https://cursos.alura.com.br/certificate/f5b0f153-b787-4d8f-ad40-261d32b6a1ef">
 <img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge"/>
 </a>
 
