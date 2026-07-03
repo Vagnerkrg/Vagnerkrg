@@ -32,6 +32,7 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 - Pandas
 - NumPy
 - Estatística Aplicada
+- Análise Exploratória de Dados (EDA)
 - Visualização de Dados
 
 ### 🤖 Machine Learning
@@ -41,22 +42,25 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 - Ensemble Learning
 - XGBoost
 - Validação de Modelos
-- Seleção de Features
+- Engenharia de Features
 
 ### ⚡ Engenharia de Dados
-- Spark / PySpark
-- AWS (Data Lake, Glue e S3)
+- Apache Spark
+- PySpark
+- AWS (S3, Glue e Data Lake)
 
 ### 🧠 Inteligência Artificial
-- NLP (Natural Language Processing)
-- LLMs
+- Processamento de Linguagem Natural (NLP)
+- Large Language Models (LLMs)
 - IA Generativa
 
 ### 🛠️ Ferramentas
-- Streamlit
-- Docker
 - Git & GitHub
+- Docker
+- Streamlit
 - n8n
+- Jupyter Notebook
+- VS Code
 
 ## 🏆 Skills & Certificações
 
