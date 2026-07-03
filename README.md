@@ -1,7 +1,4 @@
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px"> Vagner Ferreira
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px">
-</h1>
-
 <p align="center">
   <AI AI Engineer | Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS
 </p>
