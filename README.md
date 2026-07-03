@@ -12,10 +12,13 @@ Transformo dados em soluções inteligentes através de Machine Learning, Estat�
 
 ## 🚀 Sobre mim
 
-Cientista de Dados com foco em soluções completas baseadas em dados e inteligência artificial.
+Cientista de Dados com foco no desenvolvimento de soluções completas baseadas em dados, inteligência artificial e engenharia de dados.
 
-Atuo em todo o ciclo de dados:
-coleta → tratamento → análise → modelagem → deploy.
+Atuo em todo o ciclo de dados — da coleta e estruturação até a análise, modelagem, validação e deploy de soluções em produção.
+
+Tenho experiência prática com problemas reais envolvendo exploração de dados, construção de modelos preditivos, automação de processos analíticos e desenvolvimento de pipelines de dados escaláveis.
+
+Meu foco é transformar dados brutos em insights estratégicos e produtos analíticos que apoiam a tomada de decisão e geram valor para negócios.
 
 ---
 
@@ -31,6 +34,8 @@ coleta → tratamento → análise → modelagem → deploy.
 - AWS (Data Lake / Glue)
 - NLP
 - Streamlit
+- n8n & Automação
+- Docker (containers)
 
 ---
 
@@ -70,16 +75,16 @@ coleta → tratamento → análise → modelagem → deploy.
 <img src="https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge"/>
 </a>
 
+<a href="https://cursos.alura.com.br/certificate/4e8b6b6f-b502-4173-9546-a0eeab972730">
+<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
+</a>
+
 <a href="https://cursos.alura.com.br/certificate/ae7a90a5-de97-460a-adad-d5e39ac60776">
 <img src="https://img.shields.io/badge/Model_Validation-FF5722?style=for-the-badge"/>
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/0025fa7c-5881-438b-9623-03cf4093c6ee">
 <img src="https://img.shields.io/badge/Feature_Selection-3F51B5?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/4e8b6b6f-b502-4173-9546-a0eeab972730">
-<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
 </a>
 
 ---
@@ -132,12 +137,12 @@ coleta → tratamento → análise → modelagem → deploy.
 
 ## 📌 Projetos em destaque
 
-- 📊 EDA e análise de dados
-- 🤖 Machine Learning aplicado
+- 📊 Análise Exploratória de Dados (EDA)
+- 🤖 Machine Learning aplicado a problemas reais
 - 🧠 NLP e análise de sentimentos
-- ⚡ Pipelines com Spark
-- ☁️ AWS Data Lake
-- 🚀 Deploy com Streamlit
+- ⚡ Engenharia de dados com Spark
+- ☁️ Arquiteturas em AWS (Data Lake / Glue)
+- 🚀 Deploy de modelos com Streamlit
 
 ---
 
