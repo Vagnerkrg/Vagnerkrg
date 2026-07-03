@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>AI Engineer | Data Scientist | Data Engineer | Python | SQL | Spark | AWS</b>
+  <AI AI Engineer | Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS
 </p>
 
 <p align="center">
