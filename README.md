@@ -12,65 +12,87 @@ Transformo dados em insights e modelos de Machine Learning aplicados a problemas
 
 ## 🧠 O que eu faço
 
-Atuo no desenvolvimento de soluções baseadas em dados, envolvendo:
-
 - 📊 Análise e exploração de dados (EDA)
-- 🤖 Modelos de Machine Learning
-- 🧠 NLP e Inteligência Artificial aplicada
-- ⚡ Processamento de grandes volumes de dados (Big Data)
-- ☁️ Pipelines em cloud (AWS)
+- 🤖 Machine Learning aplicado
+- 🧠 NLP e Inteligência Artificial
+- ⚡ Big Data com Apache Spark
+- ☁️ Engenharia de dados em AWS
 - 🚀 Deploy de modelos com Streamlit
 
 ---
 
-## 🛠️ Skills principais
+## 🏅 Medalhas de Competências
 
-### 📊 Data Science
-- Pandas | NumPy | Matplotlib | Seaborn  
-- EDA | Estatística | Visualização de dados  
-- PCA | Feature Engineering  
+<p align="center">
 
-### 🤖 Machine Learning
-- Scikit-Learn  
-- Regressão | Classificação | Clusterização  
-- XGBoost | Ensemble Learning  
-- Validação cruzada  
-- Otimização de hiperparâmetros  
+<img src="https://img.shields.io/badge/Data_Science-1f77b4?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-6f42c1?style=for-the-badge&logo=openai&logoColor=white"/>
 
-### 🧠 IA & NLP
-- Processamento de linguagem natural  
-- LLMs (conceitual e aplicação)  
-- Análise de sentimentos  
+</p>
 
-### ⚡ Big Data & Cloud
-- Apache Spark / PySpark  
-- AWS Glue / Data Lake  
-- Processamento distribuído  
+---
 
-### 💻 Ferramentas
-- Python | SQL | Git | GitHub | Docker  
-- Streamlit  
+## 🛠️ Tecnologias principais
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=sql"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-0C4B8E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-> (Aqui está o que mais chama recrutador)
-
 ### 📊 Análise de Dados (EDA)
-Exploração de dados reais com limpeza, visualização e insights de negócio.
+Exploração de dados com foco em insights e tomada de decisão.
 
 ### 🤖 Machine Learning
-Modelos de classificação e regressão com comparação de algoritmos e métricas.
+Modelos de classificação e regressão com avaliação de performance.
 
 ### 📈 Séries Temporais
-Previsão de tendências com técnicas estatísticas e ML.
+Previsão de tendências com modelos estatísticos e ML.
 
 ### ⚡ Big Data Pipeline
 Processamento de grandes volumes de dados com Spark/PySpark.
 
 ### 🧠 NLP
-Análise de sentimentos e processamento de texto.
+Análise de sentimentos e processamento de linguagem natural.
+
+---
+
+## 📚 Formação
+
+🎓 Formação Cientista de Dados — Alura
+
+- Python para Data Science  
+- Estatística e Matemática para Dados  
+- Machine Learning  
+- NLP  
+- Big Data (Spark / PySpark)  
+- AWS Glue / Data Lake  
+- Visualização de Dados  
+- Streamlit  
+- SQL  
 
 ---
 
@@ -87,7 +109,7 @@ Análise de sentimentos e processamento de texto.
 
 ## 🎯 Objetivo
 
-Atuar como **Data Scientist ou Machine Learning Engineer Jr**, desenvolvendo soluções de dados que gerem impacto real em negócios.
+Atuar como **Data Scientist ou Machine Learning Engineer Jr**, desenvolvendo soluções inteligentes baseadas em dados.
 
 ---
 
