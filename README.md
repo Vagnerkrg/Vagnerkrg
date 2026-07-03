@@ -1,4 +1,16 @@
-<h1 align="center"> 👨‍💻 Vagner Ferreira <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px"> </h1> <p align="center"> <b>AI Engineer | Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS</b> </p> <p align="center"> Inteligência Artificial | Machine Learning | Data Engineering | LLMs </p> <p align="center"> Transformo dados em soluções inteligentes através de Inteligência Artificial, Machine Learning e Engenharia de Dados. </p>
+<h1 align="center"> 👨‍💻 Vagner Ferreira <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px"> </h1> <p align="center"> 
+  
+<p align="center">
+  <b>AI Engineer | Data Scientist | Data Engineer | Machine Learning | Python | SQL | Spark | AWS</b>
+</p>
+
+<p align="center">
+  Inteligência Artificial | Machine Learning | Engenharia de Dados | LLMs
+</p>
+
+<p align="center">
+  Transformo dados em soluções inteligentes usando Inteligência Artificial, Machine Learning e Engenharia de Dados, com foco em criação de modelos, pipelines e aplicações em produção.
+</p>
 
 ## 🚀 Sobre mim
 
