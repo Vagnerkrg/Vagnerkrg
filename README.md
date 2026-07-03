@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🤖 Inteligência Artificial | Machine Learning | Data Engineering | LLMs
+   Inteligência Artificial | Machine Learning | Data Engineering | LLMs
 </p>
 
 <p align="center">
