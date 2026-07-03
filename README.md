@@ -26,21 +26,37 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 
 ## 🧠 Stack de Conhecimento
 
-- Python (Data Science & Automação)
-- SQL (Consultas e modelagem de dados)
-- Pandas (Manipulação de dados)
-- Machine Learning
-- Estatística aplicada
-- Visualização de dados
-- Spark / PySpark
-- AWS (Data Lake / Glue)
-- NLP
-- Streamlit
-- n8n & Automação
-- Docker (containers)
-- LLMs & Inteligência Artificial
+### 📊 Data Science
+- Python
+- SQL
+- Pandas
+- NumPy
+- Estatística Aplicada
+- Visualização de Dados
 
----
+### 🤖 Machine Learning
+- Machine Learning
+- Regressão
+- Classificação
+- Ensemble Learning
+- XGBoost
+- Validação de Modelos
+- Seleção de Features
+
+### ⚡ Engenharia de Dados
+- Spark / PySpark
+- AWS (Data Lake, Glue e S3)
+
+### 🧠 Inteligência Artificial
+- NLP (Natural Language Processing)
+- LLMs
+- IA Generativa
+
+### 🛠️ Ferramentas
+- Streamlit
+- Docker
+- Git & GitHub
+- n8n
 
 ## 🏆 Skills & Certificações
 
