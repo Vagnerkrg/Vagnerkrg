@@ -147,5 +147,5 @@ Soluções de Data Science e Inteligência Artificial aplicadas a problemas reai
 ---
 
 <p align="center">
-⭐ Em evolução contínua em IA, Data Science e Engenharia de Dados, construindo soluções reais. ⭐
+⭐ Em evolução contínua em IA, Data Science e Engenharia de Dados para soluções reais. ⭐
 </p>
