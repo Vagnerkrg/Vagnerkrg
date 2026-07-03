@@ -104,7 +104,7 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 <a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45">
 <img src="https://img.shields.io/badge/AWS%20Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
----
+
 
 ### 🧠 NLP & IA
 
