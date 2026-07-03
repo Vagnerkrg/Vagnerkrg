@@ -73,21 +73,15 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 <a href="https://cursos.alura.com.br/certificate/180a5288-ca72-402d-96ab-c8ccb5381d9e?lang">
 <img src="https://img.shields.io/badge/EDA-0A66C2?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/9f41e065-b291-49e0-af00-54b49b87927c">
 <img src="https://img.shields.io/badge/PCA-795548?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/2320df6c-34e3-4bdb-9c80-912e52618185">
 <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/ae2b6479-b072-4e89-a11d-66fccbb36315?lang">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 </a>
@@ -99,33 +93,23 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 <a href="https://cursos.alura.com.br/certificate/f5b0f153-b787-4d8f-ad40-261d32b6a1ef">
 <img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/4e8b6b6f-b502-4173-9546-a0eeab972730">
 <img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/ae7a90a5-de97-460a-adad-d5e39ac60776">
 <img src="https://img.shields.io/badge/Model_Validation-FF5722?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/828634bd-7446-4cb5-837a-62f6dd8c93c9?lang">
 <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/0025fa7c-5881-438b-9623-03cf4093c6ee">
 <img src="https://img.shields.io/badge/Feature_Selection-3F51B5?style=for-the-badge"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/7863eadf-3c70-4669-b4c1-8c74570c886a">
 <img src="https://img.shields.io/badge/Advanced_Classification_System-1E88E5?style=for-the-badge"/>
 </a>
@@ -137,15 +121,11 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 <a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1">
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99">
 <img src="https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45">
 <img src="https://img.shields.io/badge/AWS_Data_Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
@@ -159,8 +139,6 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 </a>
 
 </p>
-
----
 
 ## 📌 Projetos em destaque
 
