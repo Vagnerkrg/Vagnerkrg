@@ -44,7 +44,7 @@ coleta → tratamento → análise → modelagem → deploy.
 <img src="https://img.shields.io/badge/EDA-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_PCA">
+<a href="https://cursos.alura.com.br/certificate/9f41e065-b291-49e0-af00-54b49b87927c">
 <img src="https://img.shields.io/badge/PCA-795548?style=for-the-badge"/>
 </a>
 
