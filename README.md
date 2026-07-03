@@ -1,5 +1,5 @@
 <h1 align="center">
-  Vagner Ferreira <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
+  Vagner Ferreira <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
