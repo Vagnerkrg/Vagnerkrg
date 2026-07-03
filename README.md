@@ -62,7 +62,9 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 - Jupyter Notebook
 - VS Code
 
-## 🏆 Skills & Certificações
+## 🎓 Certificações
+
+> **Clique em qualquer badge para visualizar o certificado oficial.**
 
 <p align="center">
 
