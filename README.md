@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Vagner Ferreira
+  🤖 Vagner Ferreira <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="35px">
 </h1>
+
 <p align="center">
 <b>Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS</b>
 </p>
