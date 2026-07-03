@@ -81,18 +81,13 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/828634bd-7446-4cb5-837a-62f6dd8c93c9?lang">
-<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/0025fa7c-5881-438b-9623-03cf4093c6ee">
 <img src="https://img.shields.io/badge/Feature_Selection-3F51B5?style=for-the-badge"/>
 </a>
 
-<a href="https://cursos.alura.com.br/certificate/7863eadf-3c70-4669-b4c1-8c74570c886a">
-<img src="https://img.shields.io/badge/Advanced_Classification_System-1E88E5?style=for-the-badge"/>
-</a>
-
-<!-- 🚀 PROJETO ATUAL (AULAS 04 + 05 + 06 UNIFICADAS) -->
 <a href="https://cursos.alura.com.br/certificate/7863eadf-3c70-4669-b4c1-8c74570c886a">
 <img src="https://img.shields.io/badge/Advanced_Classification_System-1E88E5?style=for-the-badge"/>
 </a>
