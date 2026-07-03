@@ -116,16 +116,17 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 
 ## 📌 Projetos em destaque
 
-Soluções de Data Science e Inteligência Artificial aplicadas a problemas reais:
+Soluções de Data Science e Inteligência Artificial aplicadas a problemas reais de negócio, com foco em performance, evolução de modelos e aplicação prática de técnicas modernas de Machine Learning.
 
-- 📊 Análise exploratória para identificação de padrões e insights estratégicos
-- 🤖 Modelos de Machine Learning para previsão e classificação de dados
-- 🧠 NLP para análise de sentimentos e compreensão de texto
+- 📊 Análise exploratória de dados (EDA) para identificação de padrões e insights estratégicos
+- 🤖 Modelos de Machine Learning para classificação e previsão de comportamento de clientes
+- 🧠 NLP aplicado à análise de sentimentos e processamento de linguagem natural
+- ⚙️ Técnicas avançadas de Machine Learning com Ensemble Learning e XGBoost
+- 🔍 Experimentação com validação de modelos e otimização de hiperparâmetros
+- 🧪 Aplicação de aprendizado semi-supervisionado para melhoria de performance de modelos
 - ⚡ Engenharia de dados com Spark para processamento em larga escala
-- ☁️ Arquiteturas em AWS para pipelines escaláveis de dados
-- 🤖 Sistemas de Inteligência Artificial e automação de processos
-- 🚀 Deploy de modelos com Streamlit para aplicações analíticas
-
+- ☁️ Arquiteturas em AWS para pipelines de dados escaláveis
+- 🚀 Deploy de modelos com Streamlit para aplicações analíticas e demonstrativas
 ---
 
 ## 📊 GitHub Stats
