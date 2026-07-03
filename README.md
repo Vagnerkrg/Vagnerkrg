@@ -94,23 +94,22 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 ### ⚡ Big Data & Cloud
 
 <a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1">
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99">
-<img src="https://img.shields.io/badge/PySpark-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45">
-<img src="https://img.shields.io/badge/AWS-232F3E-?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
-
 ---
 
 ### 🧠 NLP & IA
 
 <a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d">
-<img src="https://img.shields.io/badge/NLP-6A1B9A-?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP%20%26%20AI-6A1B9A?style=for-the-badge&logo=openai&logoColor=white"/>
 </a>
 
 </p>
