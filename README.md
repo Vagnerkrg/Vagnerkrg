@@ -40,7 +40,7 @@ coleta → tratamento → análise → modelagem → deploy.
 
 ### 📊 Data Science & Analytics
 
-<a href="LINK_CERTIFICADO_EDA">
+<a href="https://cursos.alura.com.br/certificate/180a5288-ca72-402d-96ab-c8ccb5381d9e">
 <img src="https://img.shields.io/badge/EDA-0A66C2?style=for-the-badge"/>
 </a>
 
@@ -149,7 +149,7 @@ coleta → tratamento → análise → modelagem → deploy.
 
 Trilha completa:
 
-- Python para Data Science (básico ao avançado)
+- Python para Data Science
 - Estatística e Probabilidade
 - Machine Learning
 - NLP
