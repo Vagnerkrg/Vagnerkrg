@@ -1,7 +1,6 @@
 <h1 align="center">
   Vagner Ferreira <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
 </h1>
----
 
 <p align="center">
   <b>Transformando dados em decisões inteligentes, modelos preditivos e sistemas de IA aplicados a problemas reais de negócio.</b>
