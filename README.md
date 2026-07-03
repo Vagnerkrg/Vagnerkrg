@@ -1,216 +1,106 @@
-<h1 align="center">Olá, eu sou Vagner Ferreira 👋</h1>
+<h1 align="center">Vagner Ferreira 👋</h1>
 
 <h3 align="center">
-Data Scientist • Machine Learning • Big Data • Inteligência Artificial
+Data Scientist | Machine Learning Engineer Jr | Big Data & AI
 </h3>
 
 <p align="center">
-Transformando dados em soluções inteligentes através de Ciência de Dados, Machine Learning e Engenharia de Dados.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning;Big+Data;Apache+Spark;AWS+Data+Lake;Python+Developer"/>
+Transformo dados em insights e modelos de Machine Learning aplicados a problemas reais de negócio.
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 🧠 O que eu faço
 
-Sou apaixonado por Ciência de Dados e Inteligência Artificial, utilizando dados para resolver problemas e apoiar decisões.
+Atuo no desenvolvimento de soluções baseadas em dados, envolvendo:
 
-Minha formação reúne conhecimentos em análise de dados, estatística, machine learning, big data e engenharia de dados, sempre buscando aplicar essas competências em projetos práticos.
-
-Atualmente concentro meus estudos em:
-
-- 📊 Ciência de Dados
-- 🤖 Machine Learning
-- 🧠 Processamento de Linguagem Natural (NLP)
-- ⚡ Apache Spark
-- ☁️ AWS Glue e Data Lake
-- 📈 Modelagem Preditiva
-- 📉 Séries Temporais
+- 📊 Análise e exploração de dados (EDA)
+- 🤖 Modelos de Machine Learning
+- 🧠 NLP e Inteligência Artificial aplicada
+- ⚡ Processamento de grandes volumes de dados (Big Data)
+- ☁️ Pipelines em cloud (AWS)
 - 🚀 Deploy de modelos com Streamlit
 
 ---
 
-# 💼 Competências
+## 🛠️ Skills principais
 
-## 📊 Ciência de Dados
+### 📊 Data Science
+- Pandas | NumPy | Matplotlib | Seaborn  
+- EDA | Estatística | Visualização de dados  
+- PCA | Feature Engineering  
 
-✔ Limpeza de Dados
+### 🤖 Machine Learning
+- Scikit-Learn  
+- Regressão | Classificação | Clusterização  
+- XGBoost | Ensemble Learning  
+- Validação cruzada  
+- Otimização de hiperparâmetros  
 
-✔ Análise Exploratória (EDA)
+### 🧠 IA & NLP
+- Processamento de linguagem natural  
+- LLMs (conceitual e aplicação)  
+- Análise de sentimentos  
 
-✔ Engenharia de Features
+### ⚡ Big Data & Cloud
+- Apache Spark / PySpark  
+- AWS Glue / Data Lake  
+- Processamento distribuído  
 
-✔ Estatística
-
-✔ PCA
-
-✔ Visualização de Dados
-
----
-
-## 🤖 Machine Learning
-
-✔ Classificação
-
-✔ Regressão
-
-✔ Árvores de Decisão
-
-✔ Clusterização
-
-✔ Feature Selection
-
-✔ Ensemble Learning
-
-✔ Validação Cruzada
-
-✔ Otimização Bayesiana
-
-✔ Séries Temporais
+### 💻 Ferramentas
+- Python | SQL | Git | GitHub | Docker  
+- Streamlit  
 
 ---
 
-## ⚡ Big Data
+## 🚀 Projetos em destaque
 
-✔ Apache Spark
+> (Aqui está o que mais chama recrutador)
 
-✔ PySpark
+### 📊 Análise de Dados (EDA)
+Exploração de dados reais com limpeza, visualização e insights de negócio.
 
-✔ AWS Glue
+### 🤖 Machine Learning
+Modelos de classificação e regressão com comparação de algoritmos e métricas.
 
-✔ Data Lake
+### 📈 Séries Temporais
+Previsão de tendências com técnicas estatísticas e ML.
 
----
+### ⚡ Big Data Pipeline
+Processamento de grandes volumes de dados com Spark/PySpark.
 
-## 🧠 Inteligência Artificial
-
-✔ NLP
-
-✔ Análise de Sentimentos
-
-✔ Modelos Preditivos
-
-✔ Streamlit
+### 🧠 NLP
+Análise de sentimentos e processamento de texto.
 
 ---
 
-# 💻 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</p>
-
----
-
-# 📚 Formação
-
-🎓 Formação Cientista de Dados — Alura
-
-### Principais conhecimentos desenvolvidos
-
-- Python
-- SQL
-- Pandas
-- Estatística
-- Matemática para Data Science
-- Machine Learning
-- NLP
-- Apache Spark
-- AWS Glue
-- Data Lake
-- Streamlit
-- GitHub
-- Visualização de Dados
-
----
-
-# 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 Sequência de contribuições
+## 🎯 Objetivo
+
+Atuar como **Data Scientist ou Machine Learning Engineer Jr**, desenvolvendo soluções de dados que gerem impacto real em negócios.
+
+---
+
+## 📫 Contato
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Projetos em destaque
-
-📌 Em constante desenvolvimento.
-
-Os projetos publicados demonstram conhecimentos em:
-
-- Ciência de Dados
-- Machine Learning
-- Big Data
-- SQL
-- Apache Spark
-- NLP
-- AWS
-
----
-
-# 📈 Atualmente estudando
-
-- IA Generativa
-- Engenharia de Dados
-- MLOps
-- Cloud Computing
-- Arquiteturas para Machine Learning
-
----
-
-# 📫 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge"/>
 </a>
 
 </p>
@@ -218,7 +108,5 @@ Os projetos publicados demonstram conhecimentos em:
 ---
 
 <p align="center">
-
-⭐ Obrigado pela visita! Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução na área de Ciência de Dados e Inteligência Artificial.
-
+⭐ Sempre evoluindo em Ciência de Dados, Machine Learning e Inteligência Artificial
 </p>
