@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Vagner Ferreira
+  👨‍💻 Vagner Ferreira 
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45px">
 </h1>
 
 <p align="center">
