@@ -12,7 +12,7 @@
   Transformo dados em soluções inteligentes usando Inteligência Artificial, Machine Learning e Engenharia de Dados, com foco em criação de modelos, pipelines e aplicações em produção.
 </p>
 
-## 🚀 Sobre
+## 🚀 Apresentação
 
 Cientista de Dados com foco no desenvolvimento de soluções completas baseadas em dados, inteligência artificial e engenharia de dados.
 
