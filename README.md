@@ -4,17 +4,16 @@
 </h1>
 
 <p align="center">
-  <b>AI Engineer | Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS</b>
+  <b>AI Engineer | Data Scientist | Data Engineer | Machine Learning | Python | SQL | Spark | AWS</b>
 </p>
 
 <p align="center">
- Inteligência Artificial | Machine Learning | Data Engineering | LLMs
+  🤖 Inteligência Artificial | 📊 Data Science | ⚙️ Data Engineering | 🧠 LLMs
 </p>
 
 <p align="center">
-Transformo dados em soluções inteligentes através de Inteligência Artificial, Machine Learning e Engenharia de Dados.
+  Transformo dados em soluções inteligentes usando Inteligência Artificial, Machine Learning e Engenharia de Dados.
 </p>
-
 ---
 
 ## 🚀 Sobre mim
