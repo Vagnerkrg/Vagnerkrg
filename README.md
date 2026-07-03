@@ -121,13 +121,13 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 
 Soluções de Data Science e Inteligência Artificial aplicadas a problemas reais:
 
-- 📊 Análise exploratória para identificação de padrões e insights estratégicos
-- 🤖 Modelos de Machine Learning para previsão e classificação de dados
-- 🧠 NLP para análise de sentimentos e compreensão de texto
-- ⚡ Engenharia de dados com Spark para processamento em larga escala
-- ☁️ Arquiteturas em AWS para pipelines escaláveis de dados
-- 🤖 Sistemas de Inteligência Artificial e automação de processos
-- 🚀 Deploy de modelos com Streamlit para aplicações analíticas
+- 📊 Soluções de análise exploratória com geração de insights acionáveis
+- 🤖 Modelos preditivos aplicados a problemas reais de negócio
+- 🧠 NLP para extração de insights e automação de análise de texto
+- ⚡ Pipelines de dados com Spark para processamento em escala
+- ☁️ Arquiteturas em AWS para sistemas de dados escaláveis
+- 🤖 Sistemas de IA e automação com agentes inteligentes
+- 🚀 Deploy de modelos com Streamlit como aplicações interativas
 
 ---
 
