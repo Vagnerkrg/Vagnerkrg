@@ -147,5 +147,5 @@ Soluções de Data Science e Inteligência Artificial aplicadas a problemas reai
 ---
 
 <p align="center">
-⭐ Sempre evoluindo em Inteligência Artificial, Data Science e Engenharia de Dados
+⭐ Em constante evolução em Inteligência Artificial, Data Science e Engenharia de Dados, aplicando aprendizado contínuo na construção de soluções práticas e projetos de Machine Learning reais.⭐
 </p>
