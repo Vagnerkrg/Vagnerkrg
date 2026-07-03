@@ -1,91 +1,49 @@
-# 👨‍💻 Vagner Ferreira
+<h1 align="center">
+  👨‍💻 Vagner Ferreira
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
+</h1>
 
-## Inteligência Artificial | Machine Learning | Data Engineering | LLMs
-
-Transformo dados em soluções inteligentes através de Inteligência Artificial, Machine Learning e Engenharia de Dados.
+<p align="center">
+  Inteligência Artificial | Machine Learning | Data Engineering | LLMs
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Cientista de Dados com foco no desenvolvimento de soluções completas baseadas em dados, inteligência artificial e engenharia de dados.
+Cientista de Dados focado no desenvolvimento de soluções completas baseadas em dados, IA e engenharia de dados.
 
-Atuo em todo o ciclo de dados — da coleta e estruturação até a análise, modelagem, validação, deploy e automação de soluções em produção.
+Atuo em todo o ciclo de dados — da coleta e estruturação até análise, modelagem, validação, deploy e automação.
 
-Tenho experiência prática na construção de soluções que transformam dados em insights estratégicos, modelos preditivos e sistemas inteligentes aplicados a problemas reais.
-
-Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minha capacidade de storytelling com dados, visualização de insights e comunicação clara de resultados técnicos para áreas de negócio.
+Tenho experiência na construção de sistemas que transformam dados em insights estratégicos, modelos preditivos e soluções inteligentes aplicadas a problemas reais.
 
 ---
 
-## 🧠 Stack de Conhecimento
+## 🎯 Diferencial
 
-- Python (Data Science & Automação)
-- SQL (Consultas e modelagem de dados)
-- Pandas (Manipulação de dados)
-- Machine Learning
-- Estatística aplicada
-- Visualização de dados
-- Spark / PySpark
-- AWS (Data Lake / Glue)
-- NLP
-- Streamlit
-- n8n & Automação
-- Docker
-- LLMs & Inteligência Artificial
+Minha base de **17 anos em Comunicação Visual, Marketing e Design** me permite:
+
+- 📊 Storytelling com dados  
+- 📈 Visualização de insights  
+- 🧠 Tradução de dados em linguagem de negócio  
+- 🎨 Comunicação clara de resultados técnicos  
 
 ---
 
-## 🏆 Skills & Certificações
+## 🧠 Foco atual
 
-### 📊 Data Science & Analytics
-- EDA
-- PCA
-- Statistics
-- Pandas
-
-### 🤖 Machine Learning
-- Regression
-- Model Validation
-- Feature Selection
-
-### ⚡ Big Data & Cloud
-- Spark
-- PySpark
-- AWS
-
-### 🧠 NLP & IA
-- Natural Language Processing
-
----
-
-## 📌 Projetos em destaque
-
-- 📊 Análise exploratória com geração de insights acionáveis  
-- 🤖 Modelos preditivos aplicados a problemas reais de negócio  
-- 🧠 NLP para extração de insights de texto  
-- ⚡ Pipelines de dados com Spark em escala  
-- ☁️ Arquiteturas em AWS para sistemas de dados  
-- 🤖 Automação com IA e agentes inteligentes  
-- 🚀 Deploy de modelos com Streamlit  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vagnerkrg&theme=tokyonight"/>
-</p>
+- Machine Learning aplicado a problemas reais  
+- Engenharia de dados e pipelines escaláveis  
+- LLMs e Inteligência Artificial aplicada  
+- Automação de processos com dados  
 
 ---
 
 ## 📫 Contato
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/vagnerferreiradata  
-- 📧 Email: vagnerkrg@gmail.com  
+- Email: contato@vagnerdatascience.com  
+- GitHub: https://github.com/Vagnerkrg  
 
 ---
 
-<p align="center">
-⭐ Sempre evoluindo em Inteligência Artificial, Data Science e Engenharia de Dados
-</p>
+⭐ Sempre evoluindo em Inteligência Artificial, Dados e Engenharia de Software.
