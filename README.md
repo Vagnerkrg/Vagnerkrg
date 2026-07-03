@@ -117,7 +117,7 @@ Atuar como **Data Scientist ou Machine Learning Engineer Jr**, desenvolvendo sol
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/vagnerferreiradata/)">
+<a href="https://www.linkedin.com/in/vagnerferreiradata/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
 
