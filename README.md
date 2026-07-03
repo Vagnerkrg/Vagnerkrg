@@ -1,8 +1,11 @@
-<h1 align="center">
-  👨‍💻 Vagner Ferreira
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
-</h1>
+</p>
 
+<p align="center">
+  🤖 Inteligência Artificial | Machine Learning | Data Engineering | LLMs
+   Inteligência Artificial | Machine Learning | Data Engineering | LLMs
+</p>
+
+<p align="center">
 <p align="center">
   Inteligência Artificial | Machine Learning | Data Engineering | LLMs
 </p>
