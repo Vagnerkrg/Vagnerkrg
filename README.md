@@ -1,13 +1,10 @@
 <h1 align="center">
   👨‍💻 Vagner Ferreira 
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45px">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px">
 </h1>
 
 <p align="center">
-  <b>Transformando dados em decisões inteligentes, modelos preditivos e sistemas de IA aplicados a problemas reais de negócio.</b>
-</p>
-<p align="center">
-<b>Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS</b>
+  <b>Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS</b>
 </p>
 
 <p align="center">
@@ -22,9 +19,9 @@ Cientista de Dados com foco no desenvolvimento de soluções completas baseadas 
 
 Atuo em todo o ciclo de dados — da coleta e estruturação até a análise, modelagem, validação e deploy de soluções em produção.
 
-Tenho experiência prática com problemas reais envolvendo exploração de dados, construção de modelos preditivos, automação de processos analíticos e desenvolvimento de pipelines de dados escaláveis.
+Tenho experiência prática na construção de soluções que transformam dados em insights estratégicos e apoiam a tomada de decisão em contextos reais.
 
-Meu foco é transformar dados brutos em insights estratégicos e produtos analíticos que apoiam a tomada de decisão e geram valor para negócios.
+Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minha capacidade de storytelling com dados, visualização de insights e comunicação clara de resultados técnicos para áreas de negócio.
 
 ---
 
@@ -48,8 +45,6 @@ Meu foco é transformar dados brutos em insights estratégicos e produtos analí
 ## 🏆 Skills & Certificações
 
 <p align="center">
-
----
 
 ### 📊 Data Science & Analytics
 
@@ -75,10 +70,6 @@ Meu foco é transformar dados brutos em insights estratégicos e produtos analí
 
 <a href="https://cursos.alura.com.br/certificate/f5b0f153-b787-4d8f-ad40-261d32b6a1ef">
 <img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/f5b0f153-b787-4d8f-ad40-261d32b6a1ef">
-<img src="https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge"/>
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/4e8b6b6f-b502-4173-9546-a0eeab972730">
@@ -143,12 +134,14 @@ Meu foco é transformar dados brutos em insights estratégicos e produtos analí
 
 ## 📌 Projetos em destaque
 
-- 📊 Análise Exploratória de Dados (EDA)
-- 🤖 Machine Learning aplicado a problemas reais
-- 🧠 NLP e análise de sentimentos
-- ⚡ Engenharia de dados com Spark
-- ☁️ Arquiteturas em AWS (Data Lake / Glue)
-- 🚀 Deploy de modelos com Streamlit
+Soluções de Data Science aplicadas a problemas reais de negócio:
+
+- 📊 Análise exploratória para identificação de padrões e insights estratégicos
+- 🤖 Modelos preditivos aplicados a previsão e classificação de dados reais
+- 🧠 NLP para análise de sentimentos e extração de insights de textos
+- ⚡ Engenharia de dados com Spark para processamento em larga escala
+- ☁️ Arquiteturas em AWS para pipelines de dados em nuvem
+- 🚀 Deploy de modelos com Streamlit para aplicações analíticas
 
 ---
 
