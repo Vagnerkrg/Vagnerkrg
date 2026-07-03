@@ -58,12 +58,50 @@ Tenho experiência prática em:
 
 ---
 
+## 🏅 Achievements & Certifications
+
+<p align="center">
+
+<!-- DATA SCIENCE -->
+<img src="https://img.shields.io/badge/Data_Science-1f77b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge"/>
+
+<!-- MACHINE LEARNING -->
+<img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clustering-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PCA-795548?style=for-the-badge"/>
+
+<!-- BIG DATA -->
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PySpark-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Lake-2196F3?style=for-the-badge"/>
+
+<!-- CLOUD -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge"/>
+
+<!-- NLP -->
+<img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge"/>
+
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
+
+</p>
+
+---
+
 ## 🚀 Projetos em destaque
 
 > Repositórios selecionados demonstrando habilidades práticas em Ciência de Dados
 
 - 📊 Análise Exploratória de Dados (EDA)
-- 🤖 Modelos de Machine Learning para classificação e regressão
+- 🤖 Modelos de Machine Learning (Classificação e Regressão)
 - 🧠 Processamento de Linguagem Natural (NLP)
 - ⚡ Pipeline de Big Data com Spark e AWS
 - 📈 Séries Temporais e previsão de dados
@@ -89,7 +127,7 @@ Abrangendo:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
 
