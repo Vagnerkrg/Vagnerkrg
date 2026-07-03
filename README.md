@@ -48,11 +48,11 @@ coleta → tratamento → análise → modelagem → deploy.
 <img src="https://img.shields.io/badge/PCA-795548?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_STATISTICS">
+<a href="https://cursos.alura.com.br/certificate/2320df6c-34e3-4bdb-9c80-912e52618185">
 <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_PANDAS">
+<a href="https://cursos.alura.com.br/certificate/ae2b6479-b072-4e89-a11d-66fccbb36315">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 </a>
 
