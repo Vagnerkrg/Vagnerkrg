@@ -23,20 +23,22 @@ coleta → tratamento → análise → modelagem → deploy.
 
 - Python (Data Science & Automação)
 - SQL (Consultas e modelagem de dados)
-- Pandas (Manipulação avançada de dados)
-- Machine Learning (Supervisionado e não supervisionado)
+- Pandas (Manipulação de dados)
+- Machine Learning
 - Estatística aplicada
 - Visualização de dados
 - Spark / PySpark
 - AWS (Data Lake / Glue)
 - NLP
-- Streamlit (Deploy de modelos)
+- Streamlit
 
 ---
 
 ## 🏆 Skills & Certificações
 
 <p align="center">
+
+---
 
 ### 📊 Data Science & Analytics
 
@@ -64,47 +66,43 @@ coleta → tratamento → análise → modelagem → deploy.
 <img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_REGRESSION">
-<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
-</a>
-
-<a href="LINK_CERTIFICADO_CLASSIFICATION">
+<a href="https://cursos.alura.com.br/certificate/f5b0f153-b787-4d8f-ad40-261d32b6a1ef">
 <img src="https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_CLUSTERING">
-<img src="https://img.shields.io/badge/Clustering-3F51B5?style=for-the-badge"/>
+<a href="https://cursos.alura.com.br/certificate/ae7a90a5-de97-460a-adad-d5e39ac60776">
+<img src="https://img.shields.io/badge/Model_Validation-FF5722?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_MODEL_VALIDATION">
-<img src="https://img.shields.io/badge/Model_Validation-FF5722?style=for-the-badge"/>
+<a href="https://cursos.alura.com.br/certificate/0025fa7c-5881-438b-9623-03cf4093c6ee">
+<img src="https://img.shields.io/badge/Feature_Selection-3F51B5?style=for-the-badge"/>
+</a>
+
+<a href="https://cursos.alura.com.br/certificate/4e8b6b6f-b502-4173-9546-a0eeab972730">
+<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
 </a>
 
 ---
 
 ### ⚡ Big Data & Cloud
 
-<a href="LINK_CERTIFICADO_SPARK">
+<a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1">
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_PYSPARK">
+<a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99">
 <img src="https://img.shields.io/badge/PySpark-E34F26?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_AWS">
+<a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
-</a>
-
-<a href="LINK_CERTIFICADO_DATA_LAKE">
-<img src="https://img.shields.io/badge/Data_Lake-2196F3?style=for-the-badge"/>
 </a>
 
 ---
 
 ### 🧠 NLP
 
-<a href="LINK_CERTIFICADO_NLP">
+<a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d">
 <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge"/>
 </a>
 
@@ -112,19 +110,19 @@ coleta → tratamento → análise → modelagem → deploy.
 
 ### 🛠️ Tools
 
-<a href="LINK_CERTIFICADO_SQL">
+<a href="https://cursos.alura.com.br/certificate/75df75a1-6077-4f49-a191-d4f3b4027558">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_STREAMLIT">
+<a href="https://cursos.alura.com.br/certificate/9f8e3e64-1e37-40d5-8aaa-da28ef513898">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_GITHUB">
+<a href="https://cursos.alura.com.br/certificate/ab737772-ee37-4a19-bc42-620ee2d6f375">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 </a>
 
-<a href="LINK_CERTIFICADO_PYTHON">
+<a href="https://cursos.alura.com.br/certificate/66a51a6c-5688-4b71-ac84-1996654e877c">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
 </a>
 
@@ -134,30 +132,12 @@ coleta → tratamento → análise → modelagem → deploy.
 
 ## 📌 Projetos em destaque
 
-- 📊 Análise Exploratória de Dados (EDA)
-- 🤖 Machine Learning (Regressão, Classificação, Clusterização)
-- 🧠 NLP (Análise de sentimentos)
-- ⚡ Big Data com Spark e PySpark
-- ☁️ Pipelines com AWS (Data Lake / Glue)
-- 🚀 Deploy de modelos com Streamlit
-
----
-
-## 🎓 Formação
-
-**Cientista de Dados — Alura**
-
-Trilha completa:
-
-- Python para Data Science
-- Estatística e Probabilidade
-- Machine Learning
-- NLP
-- Big Data (Spark / PySpark)
-- AWS e Data Engineering
-- SQL
-- Visualização de dados
-- Deploy de aplicações
+- 📊 EDA e análise de dados
+- 🤖 Machine Learning aplicado
+- 🧠 NLP e análise de sentimentos
+- ⚡ Pipelines com Spark
+- ☁️ AWS Data Lake
+- 🚀 Deploy com Streamlit
 
 ---
 
