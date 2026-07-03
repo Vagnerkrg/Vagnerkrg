@@ -14,11 +14,11 @@
 
 ## 🚀 Apresentação
 
-Cientista de Dados com foco no desenvolvimento de soluções completas baseadas em dados, inteligência artificial e engenharia de dados.
+Cientista de Dados com foco no desenvolvimento de soluções completas baseadas em dados, Inteligência Artificial e Engenharia de Dados.
 
-Atuo em todo o ciclo de dados — da coleta e estruturação até a análise, modelagem, validação, deploy e automação de soluções em produção.
+Atuo em todo o ciclo de dados — da coleta e estruturação à análise, modelagem, validação e deploy de soluções em ambiente de produção.
 
-Tenho experiência prática na construção de soluções que transformam dados em insights estratégicos, modelos preditivos e sistemas inteligentes aplicados a problemas reais.
+Tenho experiência prática na construção de modelos e sistemas que transformam dados em insights estratégicos e aplicações inteligentes para problemas reais de negócio.
 
 Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minha capacidade de storytelling com dados, visualização de insights e comunicação clara de resultados técnicos para áreas de negócio.
 
