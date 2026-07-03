@@ -61,14 +61,14 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 - n8n
 - Jupyter Notebook
 - VS Code
-
+  
 ## 🎓 Certificações
 
-> **Clique em qualquer badge para visualizar o certificado oficial.**
+> 🔗 **Todas as badges são clicáveis e direcionam para os certificados oficiais emitidos pela instituição.**
 
 <p align="center">
 
-### 📊 Data Science & Analytics
+### 📊 Data Science & Análise de Dados
 
 <a href="https://cursos.alura.com.br/certificate/180a5288-ca72-402d-96ab-c8ccb5381d9e?lang">
 <img src="https://img.shields.io/badge/EDA-0A66C2?style=for-the-badge"/>
@@ -116,10 +116,10 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 
 ---
 
-### ⚡ Big Data & Cloud
+### ⚡ Engenharia de Dados & Cloud
 
 <a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1">
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99">
@@ -127,18 +127,20 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45">
-<img src="https://img.shields.io/badge/AWS%20Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Data_Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
 
+---
 
-### 🧠 NLP & IA
+### 🧠 Inteligência Artificial & NLP
 
 <a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d">
-<img src="https://img.shields.io/badge/NLP%20%26%20AI-6A1B9A?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP_&_AI-6A1B9A?style=for-the-badge&logo=openai&logoColor=white"/>
 </a>
 
 </p>
 
+---
 ## 📌 Projetos em destaque
 
 Soluções de Data Science e Inteligência Artificial aplicadas a problemas reais:
