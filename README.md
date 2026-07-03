@@ -1,8 +1,21 @@
 <h1 align="center">
   🤖 Vagner Ferreira 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px">
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Python+%7C+SQL+%7C+Spark+%7C+AWS;Turning+Data+into+Intelligent+Decisions;Building+End-to-End+AI+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250px">
+</p>
+
+---
+
+<p align="center">
+  <b>Transformando dados em decisões inteligentes, modelos preditivos e sistemas de IA aplicados a problemas reais de negócio.</b>
+</p>
 <p align="center">
 <b>Data Scientist | Machine Learning Engineer | Python | SQL | Spark | AWS</b>
 </p>
