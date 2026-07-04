@@ -73,7 +73,7 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 
 ## 🎓 Certificações
 
-> 🔗 Todas as badges são clicáveis e direcionam para os certificados oficiais emitidos pelas instituições.
+🔗 Todas as badges são clicáveis e direcionam para os certificados oficiais emitidos pelas instituições.
 
 <p align="center">
 
