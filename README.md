@@ -34,31 +34,39 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 - Estatística Aplicada
 - Análise Exploratória de Dados (EDA)
 - Visualização de Dados
+- Feature Engineering
+
+---
 
 ### 🤖 Machine Learning
-- Machine Learning
-- Regressão
-- Classificação
+- Supervised Learning
+- Classification (Binary Problems)
+- Regression Models
 - Ensemble Learning
 - XGBoost
-- Validação de Modelos
-- Engenharia de Features
+- Model Evaluation
+- Cross-Validation
+- Semi-Supervised Learning (Self Training)
+
+---
 
 ### ⚡ Engenharia de Dados
 - Apache Spark
 - PySpark
-- AWS (S3, Glue e Data Lake)
+- AWS (S3, Glue, Data Lake)
+
+---
 
 ### 🧠 Inteligência Artificial
 - Processamento de Linguagem Natural (NLP)
-- Large Language Models (LLMs)
-- IA Generativa
+- Fundamentos de IA
+
+---
 
 ### 🛠️ Ferramentas
 - Git & GitHub
 - Docker
 - Streamlit
-- n8n
 - Jupyter Notebook
 - VS Code
   
