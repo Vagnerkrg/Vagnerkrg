@@ -79,15 +79,15 @@ Todas as badges abaixo são clicáveis e direcionam para os certificados oficiai
 <p align="center">
 
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1148995/certificate">
-<img src="https://img.shields.io/badge/Alura%20%7C%20Data%20Science%20Career%20🥉-B08D57?style=for-the-badge&logo=alura&logoColor=white" />
+<img src="https://img.shields.io/badge/Alura%20%7C%20Data%20Science%20Career%20🥉-000000?style=for-the-badge&logo=alura&logoColor=white" />
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Alura%20%7C%20Data%20Science%20Career%20🥈-C0C0C0?style=for-the-badge&logo=alura&logoColor=white" />
+<img src="https://img.shields.io/badge/Alura%20%7C%20Data%20Science%20Career%20🥈-000000?style=for-the-badge&logo=alura&logoColor=white" />
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Alura%20%7C%20Data%20Science%20Career%20🥇-FFD700?style=for-the-badge&logo=alura&logoColor=white" />
+<img src="https://img.shields.io/badge/Alura%20%7C%20Data%20Science%20Career%20🥇-000000?style=for-the-badge&logo=alura&logoColor=white" />
 </a>
 
 </p>
