@@ -83,8 +83,8 @@ Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minh
 <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge"/>
 </a>
 
-<a href="https://cursos.alura.com.br/certificate/ae2b6479-b072-4e89-af00-54b49b87927c">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<a href="https://cursos.alura.com.br/certificate/3b64e899-c7a4-4f11-bd75-025467c2cace?lang">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </a>
 
 ---
