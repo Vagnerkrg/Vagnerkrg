@@ -27,49 +27,67 @@ Tenho experiência prática na construção de modelos e sistemas que transforma
 
 ## 🧠 Stack de Conhecimento
 
-### 📊 Data Science
+---
+
+### 📊 Data Science & Analytics
 - Python
 - SQL
 - Pandas
 - NumPy
 - Estatística Aplicada
 - Análise Exploratória de Dados (EDA)
-- Visualização de Dados
+- Visualização de Dados (Matplotlib / Seaborn)
 - Feature Engineering
+- Análise de Séries Temporais (Time Series)
 
 ---
 
 ### 🤖 Machine Learning
-- Supervised Learning
-- Classification (Binary Problems)
-- Regression Models
+- Machine Learning Supervisionado
+- Classificação (Binary & Multi-Class)
+- Regressão
 - Ensemble Learning
 - XGBoost
-- Model Evaluation
-- Cross-Validation
-- Semi-Supervised Learning (Self Training)
+- Avaliação de Modelos (MAE, RMSE, Accuracy, etc.)
+- Validação Cruzada (Cross-Validation)
+- Semi-Supervised Learning (Self-Training)
+- Model Selection & Tuning
+
+---
+
+### 📈 Séries Temporais & Forecasting
+- Análise de Séries Temporais
+- Suavização Exponencial (Holt-Winters)
+- Médias Móveis
+- Decomposição de Séries (Tendência, Sazonalidade, Resíduos)
+- Detecção de Anomalias via Resíduos
+- Forecasting de Demanda
 
 ---
 
 ### ⚡ Engenharia de Dados
 - Apache Spark
 - PySpark
+- Modelagem de Dados
+- Processamento Distribuído
 - AWS (S3, Glue, Data Lake)
 
 ---
 
 ### 🧠 Inteligência Artificial
-- Processamento de Linguagem Natural (NLP)
-- Fundamentos de IA
+- NLP (Processamento de Linguagem Natural)
+- LLMs (conceitual / introdução)
+- Fundamentos de Inteligência Artificial
 
 ---
 
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas & Desenvolvimento
 - Git & GitHub
-- Docker
+- Docker (conceitual / básico)
 - Streamlit
 - Jupyter Notebook
 - VS Code
+- Linux / Terminal básico
   
 
 ## 🎓 Certificações
