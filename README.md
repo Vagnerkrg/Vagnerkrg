@@ -23,8 +23,6 @@ Atuo em todo o ciclo de dados — da coleta e estruturação à análise, modela
 
 Tenho experiência prática na construção de modelos e sistemas que transformam dados em insights estratégicos e aplicações inteligentes para problemas reais de negócio.
 
-Minha base de 17 anos em Comunicação Visual, Marketing e Design fortalece minha capacidade de storytelling com dados, visualização de insights e comunicação clara de resultados técnicos para áreas de negócio.
-
 ---
 
 ## 🧠 Stack de Conhecimento
