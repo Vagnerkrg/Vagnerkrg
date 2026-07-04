@@ -194,20 +194,27 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 </p>
 
-## 📌 Projetos em destaque
+## 📌 Projetos em Destaque
 
-Soluções de Data Science e Inteligência Artificial aplicadas a problemas reais de negócio, com foco em performance, evolução de modelos e aplicação prática de técnicas modernas de Machine Learning.
+Desenvolvimento de soluções completas de Data Science e Inteligência Artificial aplicadas a problemas reais de negócio, com foco em geração de valor, performance de modelos e construção de pipelines fim a fim.
 
-- 📊 Análise exploratória de dados (EDA) para identificação de padrões e insights estratégicos
-- 🤖 Modelos de Machine Learning para classificação e previsão de comportamento de clientes
-- 🧠 NLP aplicado à análise de sentimentos e processamento de linguagem natural
-- ⚙️ Técnicas avançadas de Machine Learning com Ensemble Learning e XGBoost
-- 🔍 Experimentação com validação de modelos e otimização de hiperparâmetros
-- 🧪 Aplicação de aprendizado semi-supervisionado para melhoria de performance de modelos
-- ⚡ Engenharia de dados com Spark para processamento em larga escala
-- ☁️ Arquiteturas em AWS para pipelines de dados escaláveis
-- 🚀 Deploy de modelos com Streamlit para aplicações analíticas e demonstrativas
+Os projetos envolvem desde a exploração inicial dos dados até a modelagem, validação e aplicação prática em cenários de produção simulada.
+
 ---
+
+- 📊 Análise Exploratória de Dados (EDA) para identificação de padrões, anomalias e geração de insights estratégicos
+- 🤖 Modelos de Machine Learning para classificação e previsão de comportamento de clientes e variáveis de negócio
+- 🧠 Processamento de Linguagem Natural (NLP) aplicado à análise de sentimentos e compreensão de texto
+- ⚙️ Técnicas avançadas de Machine Learning com Ensemble Learning e XGBoost para ganho de performance
+- 🔍 Validação de modelos e experimentação com tuning de hiperparâmetros para otimização de resultados
+- 🧪 Aplicação de aprendizado semi-supervisionado para melhoria incremental de performance em cenários reais
+- ⚡ Engenharia de dados com Apache Spark para processamento distribuído em larga escala
+- ☁️ Arquiteturas em AWS para construção de pipelines de dados escaláveis e orientados a produção
+- 🚀 Deploy de modelos com Streamlit para criação de aplicações analíticas interativas
+
+---
+
+📌 Todos os projetos são estruturados como sistemas completos, simulando ambientes reais de produção e boas práticas de engenharia de software em Data Science.
 
 ## 📊 GitHub Stats
 
