@@ -1,4 +1,4 @@
-<h1 align="center"> 👨‍💻 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px"> </h1> <p align="center"> 
+<h1 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="70px"> </h1> <p align="center"> 
   
 <p align="center">
   <b>AI Engineer | Data Scientist | Data Engineer | Machine Learning | Python | SQL | Spark | AWS</b>
