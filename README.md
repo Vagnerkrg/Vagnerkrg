@@ -27,8 +27,6 @@ Tenho experiência prática na construção de modelos e sistemas que transforma
 
 ## 🧠 Stack de Conhecimento
 
----
-
 ### 📊 Data Science & Analytics
 - Python
 - SQL
