@@ -27,65 +27,64 @@ Tenho experiência prática na construção de modelos e sistemas que transforma
 
 ## 🧠 Stack de Conhecimento
 
+Stack focada em construção de sistemas de Machine Learning aplicados a problemas reais, com ênfase em previsão, classificação e análise de dados em escala.
+
+---
+
 ### 📊 Data Science & Analytics
-- Python
-- SQL
-- Pandas
-- NumPy
-- Estatística Aplicada
+- Python para análise e manipulação de dados
+- SQL para consulta e estruturação de dados
+- Pandas e NumPy para processamento de dados
 - Análise Exploratória de Dados (EDA)
-- Visualização de Dados (Matplotlib / Seaborn)
-- Feature Engineering
-- Análise de Séries Temporais (Time Series)
+- Estatística aplicada à análise de dados
+- Visualização de dados (Matplotlib / Seaborn)
+- Engenharia de features (Feature Engineering)
+- Análise de Séries Temporais
 
 ---
 
 ### 🤖 Machine Learning
-- Machine Learning Supervisionado
-- Classificação (Binary & Multi-Class)
-- Regressão
-- Ensemble Learning
-- XGBoost
-- Avaliação de Modelos (MAE, RMSE, Accuracy, etc.)
-- Validação Cruzada (Cross-Validation)
+- Modelos supervisionados (Classificação e Regressão)
+- Ensemble Learning (Random Forest, Boosting)
+- XGBoost aplicado a problemas reais
+- Validação e avaliação de modelos (MAE, RMSE, Accuracy)
+- Seleção e otimização de modelos
 - Semi-Supervised Learning (Self-Training)
-- Model Selection & Tuning
+- Cross-validation e controle de overfitting
 
 ---
 
 ### 📈 Séries Temporais & Forecasting
-- Análise de Séries Temporais
-- Suavização Exponencial (Holt-Winters)
-- Médias Móveis
-- Decomposição de Séries (Tendência, Sazonalidade, Resíduos)
-- Detecção de Anomalias via Resíduos
-- Forecasting de Demanda
+- Modelagem de séries temporais para previsão de demanda
+- Suavização exponencial (Holt-Winters)
+- Médias móveis e baseline models
+- Decomposição de séries (tendência, sazonalidade e ruído)
+- Detecção de anomalias baseada em resíduos
+- Forecasting aplicado a cenários de negócio
 
 ---
 
 ### ⚡ Engenharia de Dados
-- Apache Spark
-- PySpark
-- Modelagem de Dados
-- Processamento Distribuído
-- AWS (S3, Glue, Data Lake)
+- Processamento de dados com Apache Spark e PySpark
+- Conceitos de arquitetura de dados e pipelines
+- AWS (S3, Glue, Data Lake – fundamentos)
+- Modelagem e preparação de dados em escala
 
 ---
 
 ### 🧠 Inteligência Artificial
-- NLP (Processamento de Linguagem Natural)
-- LLMs (conceitual / introdução)
-- Fundamentos de Inteligência Artificial
+- Fundamentos de NLP (Processamento de Linguagem Natural)
+- Conceitos introdutórios de LLMs e aplicações
+- Fundamentos de Inteligência Artificial aplicada
 
 ---
 
 ### 🛠️ Ferramentas & Desenvolvimento
-- Git & GitHub
-- Docker (conceitual / básico)
-- Streamlit
-- Jupyter Notebook
-- VS Code
-- Linux / Terminal básico
+- Git & GitHub (versionamento profissional de projetos)
+- Streamlit (deploy de aplicações de dados)
+- Jupyter Notebook para experimentação
+- VS Code como ambiente de desenvolvimento
+- Linux / Terminal básico para workflows de dados
   
 
 ## 🎓 Certificações
