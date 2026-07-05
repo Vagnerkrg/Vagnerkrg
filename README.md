@@ -27,10 +27,6 @@ Tenho experiência prática na construção de modelos e sistemas que transforma
 
 ## 🧠 Stack de Conhecimento
 
-Stack focada em construção de sistemas de Machine Learning aplicados a problemas reais, com ênfase em previsão, classificação e análise de dados em escala.
-
----
-
 ### 📊 Data Science & Analytics
 - Python para análise e manipulação de dados
 - SQL para consulta e estruturação de dados
