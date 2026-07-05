@@ -159,6 +159,26 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 ---
 
+### 📊 Séries Temporais & Forecasting
+
+<p align="center">
+
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/regressao-prevendo-series-temporais-prophet/certificate">
+<img src="https://img.shields.io/badge/Prophet%20Forecasting-black?style=for-the-badge"/>
+</a>
+
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/regressao-realizando-previsao-series-temporais-statsmodels/certificate">
+<img src="https://img.shields.io/badge/Statsmodels%20Forecast-black?style=for-the-badge"/>
+</a>
+
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/series-temporais-detectando-anomalias-realizando-previsoes/certificate">
+<img src="https://img.shields.io/badge/Time%20Series%20Anomaly%20Detection-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
 ### ⚡ Engenharia de Dados & Cloud
 
 <p align="center">
