@@ -191,25 +191,36 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 ## 📌 Projetos em Destaque
 
-Desenvolvimento de soluções completas de Data Science e Inteligência Artificial aplicadas a problemas reais de negócio, com foco em geração de valor, performance de modelos e construção de pipelines fim a fim.
+Portfólio composto por sistemas completos de Data Science e Machine Learning, desenvolvidos como pipelines fim a fim, simulando cenários reais de produção e tomada de decisão baseada em dados.
 
-Os projetos envolvem desde a exploração inicial dos dados até a modelagem, validação e aplicação prática em cenários de produção simulada.
-
----
-
-- 📊 Análise Exploratória de Dados (EDA) para identificação de padrões, anomalias e geração de insights estratégicos
-- 🤖 Modelos de Machine Learning para classificação e previsão de comportamento de clientes e variáveis de negócio
-- 🧠 Processamento de Linguagem Natural (NLP) aplicado à análise de sentimentos e compreensão de texto
-- ⚙️ Técnicas avançadas de Machine Learning com Ensemble Learning e XGBoost para ganho de performance
-- 🔍 Validação de modelos e experimentação com tuning de hiperparâmetros para otimização de resultados
-- 🧪 Aplicação de aprendizado semi-supervisionado para melhoria incremental de performance em cenários reais
-- ⚡ Engenharia de dados com Apache Spark para processamento distribuído em larga escala
-- ☁️ Arquiteturas em AWS para construção de pipelines de dados escaláveis e orientados a produção
-- 🚀 Deploy de modelos com Streamlit para criação de aplicações analíticas interativas
+Cada projeto é estruturado como um produto analítico, passando por todas as etapas: entendimento do problema, exploração de dados, modelagem, validação e entrega de solução aplicada.
 
 ---
 
-📌 Todos os projetos são estruturados como sistemas completos, simulando ambientes reais de produção e boas práticas de engenharia de software em Data Science.
+### 🧠 Principais tipos de soluções desenvolvidas
+
+- 📊 Análise Exploratória de Dados (EDA) para identificação de padrões, comportamento e insights de negócio
+- 🤖 Modelos de Machine Learning aplicados a classificação e previsão de eventos e comportamento
+- 🧠 NLP aplicado à análise de sentimentos e interpretação de texto
+- ⚙️ Modelos de alta performance com Ensemble Learning e XGBoost
+- 🔍 Validação de modelos com métricas, experimentação e tuning de hiperparâmetros
+- 🧪 Técnicas de aprendizado semi-supervisionado para melhoria incremental de performance
+- ⚡ Engenharia de dados com Apache Spark para processamento distribuído
+- ☁️ Conceitos de arquitetura em nuvem (AWS) aplicados a pipelines de dados
+- 🚀 Deploy de modelos em aplicações interativas com Streamlit
+
+---
+
+### 🧩 Característica dos projetos
+
+Todos os projetos são estruturados com foco em:
+
+- Pipeline completo de Machine Learning (end-to-end)
+- Simulação de ambiente real de produção
+- Foco em métricas e impacto de negócio
+- Evolução incremental de modelos e soluções
+- Documentação e organização de nível portfólio profissional
+
 
 ## 📊 GitHub Stats
 
