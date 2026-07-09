@@ -83,131 +83,17 @@ Tenho experiência prática na construção de modelos e sistemas que transforma
 - Linux / Terminal básico para workflows de dados
   
 
-## 🎓 Certificações
-
-Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
-
-### 📊 Formação em Data Science
-
-<p align="center">
-
-<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1148995/certificate">
-<img src="https://img.shields.io/badge/Data%20Science%20Career%20🥉-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-### 📊 Análise de Dados & Estatística
-
-<p align="center">
-
-<a href="https://cursos.alura.com.br/certificate/180a5288-ca72-402d-96ab-c8ccb5381d9e?lang">
-<img src="https://img.shields.io/badge/EDA-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/9f41e065-b291-49e0-af00-54b49b87927c">
-<img src="https://img.shields.io/badge/PCA-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/2320df6c-34e3-4bdb-9c80-912e52618185">
-<img src="https://img.shields.io/badge/Statistics-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/3b64e899-c7a4-4f11-bd75-025467c2cace?lang">
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-### 🤖 Machine Learning
-
-<p align="center">
-
-<a href="https://cursos.alura.com.br/certificate/f5b0f153-b787-4d8f-ad40-261d32b6a1ef">
-<img src="https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/4e8b6b6f-b502-4173-9546-a0eeab972730">
-<img src="https://img.shields.io/badge/Regression-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/ae7a90a5-de97-460a-adad-d5e39ac60776">
-<img src="https://img.shields.io/badge/Model%20Validation-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/828634bd-7446-4cb5-837a-62f6dd8c93c9?lang">
-<img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/0025fa7c-5881-438b-9623-03cf4093c6ee">
-<img src="https://img.shields.io/badge/Feature%20Selection-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/7863eadf-3c70-4669-b4c1-8c74570c886a">
-<img src="https://img.shields.io/badge/Advanced%20Classification-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/11892e27-063e-4d7f-9a17-057da3c45f04?lang">
-<img src="https://img.shields.io/badge/Semi--Supervised%20Learning-black?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-### 📊 Séries Temporais & Forecasting
-
-<p align="center">
-
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/regressao-prevendo-series-temporais-prophet/certificate">
-<img src="https://img.shields.io/badge/Prophet%20Forecasting-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/regressao-realizando-previsao-series-temporais-statsmodels/certificate">
-<img src="https://img.shields.io/badge/Statsmodels%20Forecast-black?style=for-the-badge"/>
-</a>
-
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/series-temporais-detectando-anomalias-realizando-previsoes/certificate">
-<img src="https://img.shields.io/badge/Time%20Series%20Anomaly%20Detection-black?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-### ⚡ Engenharia de Dados & Cloud
-
-<p align="center">
-
-<a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1">
-<img src="https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99">
-<img src="https://img.shields.io/badge/PySpark-black?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45">
-<img src="https://img.shields.io/badge/AWS%20Data%20Engineering-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-
-</p>
-
 ---
 
 ### 💾 Databases
 
 <p align="center">
 
-<a href="LINK_SQL">
+<a href="https://cursos.alura.com.br/certificate/75df75a1-6077-4f49-a191-d4f3b4027558?lang">
 <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<a href="LINK_SQLITE">
+<a href="https://cursos.alura.com.br/certificate/14ca8773-662c-4e44-90f0-5181de995daf?lang">
 <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </a>
 
@@ -219,15 +105,15 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 <p align="center">
 
-<a href="LINK_DATA_VISUALIZATION">
+<a href="https://cursos.alura.com.br/certificate/602f4a86-35e8-447d-9726-d842d86fdb94?lang">
 <img src="https://img.shields.io/badge/Data%20Visualization-black?style=for-the-badge"/>
 </a>
 
-<a href="LINK_STORYTELLING">
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/storytelling-com-dados-e-comunicacao-para-alta-gestao/certificate">
 <img src="https://img.shields.io/badge/Data%20Storytelling-black?style=for-the-badge"/>
 </a>
 
-<a href="LINK_DASH">
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/dash-dashboards-modelos-machine-learning/certificate">
 <img src="https://img.shields.io/badge/Dash-black?style=for-the-badge&logo=plotly&logoColor=white"/>
 </a>
 
@@ -239,7 +125,7 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 ---
 
-### 🧠 Artificial Intelligence, LLM & RAG
+### 🤖 Artificial Intelligence, Deep Learning & LLM
 
 <p align="center">
 
@@ -247,23 +133,24 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 <img src="https://img.shields.io/badge/NLP%20%26%20AI-black?style=for-the-badge"/>
 </a>
 
-<a href="LINK_LLAMAINDEX_RAG">
+<a href="https://cursos.alura.com.br/certificate/101d3c76-35ff-4c1e-b811-7fe7b653c57c?lang">
 <img src="https://img.shields.io/badge/LlamaIndex%20RAG-black?style=for-the-badge"/>
 </a>
 
-<a href="LINK_VECTOR_DATABASES">
+<a href="https://cursos.alura.com.br/certificate/48710fb1-fc56-4112-8727-5dd626d9b4cb?lang">
 <img src="https://img.shields.io/badge/Vector%20Databases-black?style=for-the-badge"/>
 </a>
 
-<a href="LINK_LLAMAINDEX_PANDAS">
+<a href="https://cursos.alura.com.br/certificate/2e04e375-e2c0-4c12-8efb-c4db127d8313?lang">
 <img src="https://img.shields.io/badge/LlamaIndex%20Pandas-black?style=for-the-badge"/>
 </a>
 
-<a href="LINK_KERAS">
+<a href="https://cursos.alura.com.br/certificate/312879f4-75e2-480e-b2e9-b29559e2b8c7?lang">
 <img src="https://img.shields.io/badge/Keras%20Deep%20Learning-black?style=for-the-badge&logo=keras&logoColor=white"/>
 </a>
 
 </p>
+
 ## 📌 Projetos em Destaque
 
 Portfólio composto por sistemas completos de Data Science e Machine Learning, desenvolvidos como pipelines fim a fim, simulando cenários reais de produção e tomada de decisão baseada em dados.
