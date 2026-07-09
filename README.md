@@ -27,7 +27,7 @@ Tenho experiência prática na criação de pipelines de dados, modelos preditiv
 
 ---
 
-## 🚀 Atualmente trabalhando em
+## 🚀 Atualmente trabalhando e desenvolvendo em
 
 ### 🧠 LLM Data Intelligence System
 
