@@ -17,72 +17,103 @@
 
 ## 🚀 Apresentação
 
-Cientista de Dados com foco no desenvolvimento de soluções completas baseadas em dados, Inteligência Artificial e Engenharia de Dados.
+Cientista de Dados com foco no desenvolvimento de soluções completas envolvendo **Data Science, Machine Learning, Inteligência Artificial e Engenharia de Software aplicada à IA**.
 
-Atuo em todo o ciclo de dados — da coleta e estruturação à análise, modelagem, validação e deploy de soluções em ambiente de produção.
+Atuo em todo o ciclo de desenvolvimento de soluções inteligentes — desde a coleta, tratamento e análise de dados, passando por modelagem, validação, construção de aplicações, integração com LLMs, testes e evolução de sistemas em ambientes próximos de produção.
 
-Tenho experiência prática na construção de modelos e sistemas que transformam dados em insights estratégicos e aplicações inteligentes para problemas reais de negócio.
+Tenho experiência prática na criação de pipelines de dados, modelos preditivos e sistemas inteligentes capazes de transformar dados em insights estratégicos e aplicações orientadas a negócio.
 
 ---
 
-## 🧠 Stack de Conhecimento
+# 🧠 Stack de Conhecimento
 
-### 📊 Data Science & Analytics
-- Python para análise e manipulação de dados
-- SQL para consulta e estruturação de dados
-- Pandas e NumPy para processamento de dados
+## 📊 Data Science & Analytics
+
+- Python para análise, processamento e automação de dados
+- SQL para consulta, transformação e estruturação de dados
+- Pandas e NumPy para manipulação e análise de dados
 - Análise Exploratória de Dados (EDA)
-- Estatística aplicada à análise de dados
-- Visualização de dados (Matplotlib / Seaborn)
-- Engenharia de features (Feature Engineering)
+- Estatística aplicada à tomada de decisão
+- Visualização de dados com Matplotlib, Seaborn e Plotly
+- Feature Engineering e preparação de dados
 - Análise de Séries Temporais
+- Storytelling com dados e comunicação de insights
 
 ---
 
-### 🤖 Machine Learning
-- Modelos supervisionados (Classificação e Regressão)
+## 🤖 Machine Learning
+
+- Modelos supervisionados de classificação e regressão
 - Ensemble Learning (Random Forest, Boosting)
 - XGBoost aplicado a problemas reais
-- Validação e avaliação de modelos (MAE, RMSE, Accuracy)
-- Seleção e otimização de modelos
-- Semi-Supervised Learning (Self-Training)
+- Seleção e engenharia de atributos
+- Validação e avaliação de modelos
+- Métricas de desempenho (MAE, RMSE, Accuracy e outras)
+- Otimização de modelos e hiperparâmetros
 - Cross-validation e controle de overfitting
+- Aprendizado semi-supervisionado (Self-Training)
 
 ---
 
-### 📈 Séries Temporais & Forecasting
-- Modelagem de séries temporais para previsão de demanda
+## 📈 Séries Temporais & Forecasting
+
+- Modelagem de séries temporais para previsão
+- Forecasting aplicado a cenários de negócio
+- Prophet e modelos estatísticos de previsão
 - Suavização exponencial (Holt-Winters)
-- Médias móveis e baseline models
+- Médias móveis e modelos baseline
 - Decomposição de séries (tendência, sazonalidade e ruído)
 - Detecção de anomalias baseada em resíduos
-- Forecasting aplicado a cenários de negócio
 
 ---
 
-### ⚡ Engenharia de Dados
-- Processamento de dados com Apache Spark e PySpark
-- Conceitos de arquitetura de dados e pipelines
-- AWS (S3, Glue, Data Lake – fundamentos)
-- Modelagem e preparação de dados em escala
+## ⚡ Engenharia de Dados
+
+- Processamento distribuído com Apache Spark e PySpark
+- Construção e organização de pipelines de dados
+- Preparação e transformação de dados em escala
+- Conceitos de arquitetura de dados
+- AWS (S3, Glue e Data Lake - fundamentos)
+- Integração entre dados, modelos e aplicações
 
 ---
 
-### 🧠 Inteligência Artificial
-- Fundamentos de NLP (Processamento de Linguagem Natural)
-- Conceitos introdutórios de LLMs e aplicações
+## 🧠 Inteligência Artificial, LLMs & RAG
+
 - Fundamentos de Inteligência Artificial aplicada
+- Processamento de Linguagem Natural (NLP)
+- Large Language Models (LLMs)
+- Arquiteturas RAG (Retrieval-Augmented Generation)
+- Integração entre LLMs e bancos de dados vetoriais
+- Sistemas inteligentes de busca e recuperação de informação
+- LlamaIndex aplicado a aplicações com LLMs
+- Avaliação e monitoramento de respostas geradas por IA
 
 ---
 
-### 🛠️ Ferramentas & Desenvolvimento
-- Git & GitHub (versionamento profissional de projetos)
-- Streamlit (deploy de aplicações de dados)
+## 🏗️ Engenharia de Software aplicada à IA
+
+- Arquitetura modular de aplicações inteligentes
+- Organização profissional de projetos Python
+- Separação de responsabilidades e componentes
+- Desenvolvimento orientado a versões
+- Testes automatizados
+- Documentação técnica
+- Registro de decisões arquiteturais
+- Git e GitHub com fluxo de branches
+- Estruturação de sistemas preparados para evolução
+
+---
+
+## 🛠️ Ferramentas & Desenvolvimento
+
+- Git & GitHub para versionamento profissional
+- Streamlit para aplicações interativas de dados
+- Dash para dashboards analíticos e aplicações web
 - Jupyter Notebook para experimentação
 - VS Code como ambiente de desenvolvimento
-- Linux / Terminal básico para workflows de dados
-  
-
+- Linux / Terminal para workflows de dados
+- Docker (conceitos de empacotamento e execução de aplicações)
 ---
 
 ## 🎓 Certificações
@@ -265,39 +296,74 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 <img src="https://img.shields.io/badge/Keras%20Deep%20Learning-black?style=for-the-badge&logo=keras&logoColor=white"/>
 </a>
 
-</p>
+</p> 
+
+
+
 ## 📌 Projetos em Destaque
 
-Portfólio composto por sistemas completos de Data Science e Machine Learning, desenvolvidos como pipelines fim a fim, simulando cenários reais de produção e tomada de decisão baseada em dados.
+Portfólio composto por sistemas completos de **Data Science, Machine Learning, Inteligência Artificial e Engenharia de Software aplicada à IA**, desenvolvidos como soluções end-to-end, simulando ambientes reais de produção e aplicações orientadas a dados.
 
-Cada projeto é estruturado como um produto analítico, passando por todas as etapas: entendimento do problema, exploração de dados, modelagem, validação e entrega de solução aplicada.
+Os projetos seguem uma abordagem profissional, combinando ciência de dados, desenvolvimento de software e arquitetura de sistemas inteligentes, passando por todas as etapas do ciclo de desenvolvimento:
 
----
-
-### 🧠 Principais tipos de soluções desenvolvidas
-
-- 📊 Análise Exploratória de Dados (EDA) para identificação de padrões, comportamento e insights de negócio
-- 🤖 Modelos de Machine Learning aplicados a classificação e previsão de eventos e comportamento
-- 🧠 NLP aplicado à análise de sentimentos e interpretação de texto
-- ⚙️ Modelos de alta performance com Ensemble Learning e XGBoost
-- 🔍 Validação de modelos com métricas, experimentação e tuning de hiperparâmetros
-- 🧪 Técnicas de aprendizado semi-supervisionado para melhoria incremental de performance
-- ⚡ Engenharia de dados com Apache Spark para processamento distribuído
-- ☁️ Conceitos de arquitetura em nuvem (AWS) aplicados a pipelines de dados
-- 🚀 Deploy de modelos em aplicações interativas com Streamlit
+**entendimento do problema → exploração dos dados → engenharia de dados → modelagem → desenvolvimento da aplicação → validação → testes → documentação → monitoramento e evolução contínua.**
 
 ---
 
-### 🧩 Característica dos projetos
+### 🚀 Principais soluções desenvolvidas
 
-Todos os projetos são estruturados com foco em:
+- 📊 **Análise Exploratória de Dados (EDA)** para identificação de padrões, tendências e geração de insights estratégicos
+- 🤖 **Modelos de Machine Learning** aplicados a classificação, regressão e previsão de comportamento
+- 🧠 **Inteligência Artificial aplicada a dados**, incluindo NLP, LLMs e sistemas baseados em conhecimento
+- 🔎 **Arquiteturas RAG (Retrieval-Augmented Generation)** para integração entre modelos de linguagem e bases de dados
+- 🗂️ **Sistemas inteligentes de consulta e análise de dados utilizando LLMs**
+- ⚙️ **Modelos avançados de Machine Learning** utilizando Ensemble Learning, XGBoost e técnicas de otimização
+- 📈 **Séries temporais e forecasting** para previsão de eventos e análise temporal
+- ⚡ **Engenharia de dados** com processamento distribuído utilizando Apache Spark
+- ☁️ **Arquiteturas de dados em nuvem** utilizando conceitos AWS
+- 🌐 **Aplicações interativas e dashboards analíticos** utilizando Streamlit e Dash
+- 📊 **Storytelling com dados** para transformação de análises técnicas em decisões de negócio
+- 🏗️ **Engenharia de Software aplicada à IA**, utilizando arquitetura modular, organização de código, testes e boas práticas de desenvolvimento
 
-- Pipeline completo de Machine Learning (end-to-end)
-- Simulação de ambiente real de produção
-- Foco em métricas e impacto de negócio
-- Evolução incremental de modelos e soluções
-- Documentação e organização de nível portfólio profissional
+---
 
+### 🧩 Características dos projetos
+
+Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento de software, engenharia de dados e inteligência artificial**:
+
+- ✅ Pipelines completos de Machine Learning e Inteligência Artificial
+- ✅ Arquitetura modular com separação de responsabilidades
+- ✅ Organização profissional de diretórios e componentes
+- ✅ Código estruturado visando manutenção e escalabilidade
+- ✅ Testes automatizados e validação de qualidade
+- ✅ Documentação técnica e registro de decisões arquiteturais
+- ✅ Versionamento utilizando Git e GitHub
+- ✅ Desenvolvimento baseado em branches e evolução por versões
+- ✅ Monitoramento e avaliação contínua dos modelos
+- ✅ Preparação para deploy e evolução em ambientes de produção
+- ✅ Foco em impacto de negócio e tomada de decisão baseada em dados
+
+---
+
+### 🧠 Projeto principal
+
+**LLM Data Intelligence System**
+
+Sistema inteligente baseado em **Large Language Models (LLMs), arquitetura RAG e componentes de Data Intelligence**, desenvolvido para integração entre dados, busca contextual, análise e geração de respostas inteligentes.
+
+O projeto aplica conceitos de:
+
+- LLMs
+- RAG
+- Vector Databases
+- Machine Learning
+- Data Analysis
+- Evaluation Systems
+- Agent Intelligence Architecture
+- Engenharia de Software aplicada à IA
+- Arquitetura modular de sistemas inteligentes
+- Testes automatizados e qualidade de software
+- Versionamento e evolução de produto
 
 ## 📊 GitHub Stats
 
