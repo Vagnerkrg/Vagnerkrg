@@ -199,7 +199,47 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 ---
 
-### 🧠 Inteligência Artificial & NLP
+### 💾 Databases
+
+<p align="center">
+
+<a href="LINK_SQL">
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="LINK_SQLITE">
+<img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 📈 Data Visualization & Dash
+
+<p align="center">
+
+<a href="LINK_DATA_VISUALIZATION">
+<img src="https://img.shields.io/badge/Data%20Visualization-black?style=for-the-badge"/>
+</a>
+
+<a href="LINK_STORYTELLING">
+<img src="https://img.shields.io/badge/Data%20Storytelling-black?style=for-the-badge"/>
+</a>
+
+<a href="LINK_DASH">
+<img src="https://img.shields.io/badge/Dash-black?style=for-the-badge&logo=plotly&logoColor=white"/>
+</a>
+
+<a href="https://cursos.alura.com.br/certificate/9f8e3e64-1e37-40d5-8aaa-da28ef513898">
+<img src="https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 🧠 Artificial Intelligence, LLM & RAG
 
 <p align="center">
 
@@ -207,8 +247,23 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 <img src="https://img.shields.io/badge/NLP%20%26%20AI-black?style=for-the-badge"/>
 </a>
 
-</p>
+<a href="LINK_LLAMAINDEX_RAG">
+<img src="https://img.shields.io/badge/LlamaIndex%20RAG-black?style=for-the-badge"/>
+</a>
 
+<a href="LINK_VECTOR_DATABASES">
+<img src="https://img.shields.io/badge/Vector%20Databases-black?style=for-the-badge"/>
+</a>
+
+<a href="LINK_LLAMAINDEX_PANDAS">
+<img src="https://img.shields.io/badge/LlamaIndex%20Pandas-black?style=for-the-badge"/>
+</a>
+
+<a href="LINK_KERAS">
+<img src="https://img.shields.io/badge/Keras%20Deep%20Learning-black?style=for-the-badge&logo=keras&logoColor=white"/>
+</a>
+
+</p>
 ## 📌 Projetos em Destaque
 
 Portfólio composto por sistemas completos de Data Science e Machine Learning, desenvolvidos como pipelines fim a fim, simulando cenários reais de produção e tomada de decisão baseada em dados.
