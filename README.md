@@ -2,18 +2,19 @@
 </h1>
 
 <p align="center">
-  
+
 <p align="center">
-  <b>AI Engineer | Data Scientist | Data Engineer | Machine Learning | Python | SQL | Spark | AWS</b>
+  <b>AI Engineer | Data Scientist | LLM Applications | Machine Learning | Data Engineering</b>
 </p>
 
 <p align="center">
-  Inteligência Artificial | Machine Learning | Engenharia de Dados | LLMs
+  Python | SQL | RAG | LlamaIndex | Spark | AWS | Data Intelligence
 </p>
 
 <p align="center">
-  Transformo dados em soluções inteligentes usando Inteligência Artificial, Machine Learning e Engenharia de Dados, com foco em criação de modelos, pipelines e aplicações em produção.
+  Desenvolvo sistemas inteligentes baseados em dados, combinando Inteligência Artificial, Machine Learning e Engenharia de Software para criar aplicações escaláveis, desde pipelines analíticos até soluções com LLMs e RAG.
 </p>
+
 
 ## 🚀 Apresentação
 
