@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160px"> </h1> 
 </h1>
 
+
 <p align="center">
 
 <p align="center">
@@ -25,6 +26,28 @@ Atuo em todo o ciclo de desenvolvimento de soluções inteligentes — desde a c
 Tenho experiência prática na criação de pipelines de dados, modelos preditivos e sistemas inteligentes capazes de transformar dados em insights estratégicos e aplicações orientadas a negócio.
 
 ---
+
+## 🚀 Atualmente trabalhando em
+
+### 🧠 LLM Data Intelligence System
+
+Sistema inteligente baseado em **Large Language Models (LLMs), arquitetura RAG e Data Intelligence**, desenvolvido para integração entre dados, busca contextual, análise e geração de respostas inteligentes.
+
+O projeto explora a construção de aplicações de IA seguindo práticas de engenharia de software, incluindo:
+
+- 🔎 Arquitetura RAG (Retrieval-Augmented Generation)
+- 🧠 Integração com LLMs e bancos de dados vetoriais
+- 🗂️ Recuperação e análise inteligente de informações
+- ⚙️ Arquitetura modular de componentes
+- 🧪 Testes automatizados e avaliação de qualidade
+- 📊 Monitoramento e evolução contínua do sistema
+- 🔀 Versionamento por etapas e evolução arquitetural
+
+Tecnologias e conceitos aplicados:
+
+`Python` `LLMs` `RAG` `LlamaIndex` `Vector Databases` `Machine Learning` `Data Analysis` `Git` `Software Architecture`
+---
+
 
 # 🧠 Stack de Conhecimento
 
