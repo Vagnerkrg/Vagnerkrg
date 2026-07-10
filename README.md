@@ -2,15 +2,9 @@
 </h1>
 
 
-<p align="center">
+<h3 align="center">AI Engineer | Data Scientist | LLM Applications | Machine Learning</h1>
+<h4 align="center">Python | SQL | RAG | LlamaIndex | Spark | AWS | Data Intelligence</h3>
 
-<p align="center">
-  <strong>AI Engineer | Data Scientist | LLM Applications | Machine Learning | Data Engineering</strong>
-</p>
-
-<p align="center">
-  <strong>Python | SQL | RAG | LlamaIndex | Spark | AWS | Data Intelligence</strong>
-</p>
 
 
 <p align="center">
