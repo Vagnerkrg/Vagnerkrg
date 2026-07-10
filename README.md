@@ -364,25 +364,6 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 
 ---
 
-### 🧠 Projeto principal
-
-**LLM Data Intelligence System**
-
-Sistema inteligente baseado em **Large Language Models (LLMs), arquitetura RAG e componentes de Data Intelligence**, desenvolvido para integração entre dados, busca contextual, análise e geração de respostas inteligentes.
-
-O projeto aplica conceitos de:
-
-- LLMs
-- RAG
-- Vector Databases
-- Machine Learning
-- Data Analysis
-- Evaluation Systems
-- Agent Intelligence Architecture
-- Engenharia de Software aplicada à IA
-- Arquitetura modular de sistemas inteligentes
-- Testes automatizados e qualidade de software
-- Versionamento e evolução de produto
 
 ## 📊 GitHub Stats
 
