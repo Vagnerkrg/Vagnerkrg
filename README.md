@@ -5,12 +5,13 @@
 <p align="center">
 
 <p align="center">
-  <b>AI Engineer | Data Scientist | LLM Applications | Machine Learning | Data Engineering</b>
+  <strong>AI Engineer | Data Scientist | LLM Applications | Machine Learning | Data Engineering</strong>
 </p>
 
 <p align="center">
-  Python | SQL | RAG | LlamaIndex | Spark | AWS | Data Intelligence
+  <strong>Python | SQL | RAG | LlamaIndex | Spark | AWS | Data Intelligence</strong>
 </p>
+
 
 <p align="center">
   Desenvolvo sistemas inteligentes baseados em dados, combinando Inteligência Artificial, Machine Learning e Engenharia de Software para criar aplicações escaláveis, desde pipelines analíticos até soluções com LLMs e RAG.
