@@ -14,140 +14,154 @@
   Desenvolvo sistemas inteligentes baseados em dados, combinando Inteligência Artificial, Machine Learning e Engenharia de Software para criar aplicações escaláveis, desde pipelines analíticos até soluções com LLMs e RAG.
 </p>
 
+---
 
 ## 🚀 Apresentação
 
-Cientista de Dados com foco no desenvolvimento de soluções completas envolvendo **Data Science, Machine Learning, Inteligência Artificial e Engenharia de Software aplicada à IA**.
+Cientista de Dados em formação contínua, com foco no desenvolvimento de soluções envolvendo **Data Science, Machine Learning, Inteligência Artificial, LLMs e Engenharia de Software aplicada à IA**.
 
-Atuo em todo o ciclo de desenvolvimento de soluções inteligentes — desde a coleta, tratamento e análise de dados, passando por modelagem, validação, construção de aplicações, integração com LLMs, testes e evolução de sistemas em ambientes próximos de produção.
+Atuo no ciclo completo de desenvolvimento de soluções inteligentes — desde exploração, tratamento e análise de dados, passando por modelagem preditiva, processamento de linguagem natural, construção de aplicações com IA generativa, testes, documentação e evolução arquitetural.
 
-Tenho experiência prática na criação de pipelines de dados, modelos preditivos e sistemas inteligentes capazes de transformar dados em insights estratégicos e aplicações orientadas a negócio.
+Tenho experiência prática na criação de análises orientadas por dados, modelos de Machine Learning e sistemas inteligentes capazes de transformar dados em conhecimento e apoiar decisões de negócio.
+
+Minha trajetória une fundamentos sólidos de **Ciência de Dados** com a construção de aplicações modernas baseadas em **LLMs, RAG e agentes inteligentes**.
 
 ---
 
 ## 🚀 Atualmente trabalhando em
 
-### 🧠 LLM Data Intelligence System
+# 🧠 LLM Data Intelligence System
 
-Sistema inteligente baseado em **Large Language Models (LLMs), arquitetura RAG e Data Intelligence**, desenvolvido para integração entre dados, busca contextual, análise e geração de respostas inteligentes.
+Sistema inteligente baseado em **Large Language Models (LLMs), arquitetura RAG e Data Intelligence**, desenvolvido para integração entre dados estruturados, busca contextual, análise e geração de respostas inteligentes.
 
-O projeto explora a construção de aplicações de IA seguindo práticas de engenharia de software, incluindo:
+O projeto explora a construção de aplicações de IA seguindo princípios de engenharia de software, incluindo:
 
-- 🔎 Arquitetura RAG (Retrieval-Augmented Generation)
-- 🧠 Integração com LLMs e bancos de dados vetoriais
-- 🗂️ Recuperação e análise inteligente de informações
-- ⚙️ Arquitetura modular de componentes
-- 🧪 Testes automatizados e avaliação de qualidade
-- 📊 Monitoramento e evolução contínua do sistema
-- 🔀 Versionamento por etapas e evolução arquitetural
+* 🔎 Arquitetura RAG (Retrieval-Augmented Generation)
+* 🧠 Integração com LLMs e bancos de dados vetoriais
+* 🗂️ Recuperação inteligente de informações
+* ⚙️ Arquitetura modular e escalável
+* 🤖 Componentes de agentes inteligentes
+* 🧪 Testes automatizados e validação de qualidade
+* 📊 Observabilidade e evolução contínua do sistema
+* 🔀 Versionamento por etapas e evolução arquitetural
 
 Tecnologias e conceitos aplicados:
 
-`Python` `LLMs` `RAG` `LlamaIndex` `Vector Databases` `Machine Learning` `Data Analysis` `Git` `Software Architecture`
----
+`Python` `LLMs` `RAG` `LlamaIndex` `Vector Databases` `NLP` `Machine Learning` `Data Analysis` `Git` `Software Architecture`
 
+---
 
 # 🧠 Stack de Conhecimento
 
 ## 📊 Data Science & Analytics
 
-- Python para análise, processamento e automação de dados
-- SQL para consulta, transformação e estruturação de dados
-- Pandas e NumPy para manipulação e análise de dados
-- Análise Exploratória de Dados (EDA)
-- Estatística aplicada à tomada de decisão
-- Visualização de dados com Matplotlib, Seaborn e Plotly
-- Feature Engineering e preparação de dados
-- Análise de Séries Temporais
-- Storytelling com dados e comunicação de insights
+* Python para análise, processamento e automação de dados
+* SQL para consulta, transformação e estruturação de dados
+* Pandas e NumPy para manipulação de dados
+* Análise Exploratória de Dados (EDA)
+* Estatística aplicada à análise e tomada de decisão
+* Visualização de dados com Matplotlib, Seaborn e Plotly
+* Feature Engineering e preparação de dados
+* Análise de tendências e padrões
+* Storytelling com dados e comunicação de insights
 
 ---
 
 ## 🤖 Machine Learning
 
-- Modelos supervisionados de classificação e regressão
-- Ensemble Learning (Random Forest, Boosting)
-- XGBoost aplicado a problemas reais
-- Seleção e engenharia de atributos
-- Validação e avaliação de modelos
-- Métricas de desempenho (MAE, RMSE, Accuracy e outras)
-- Otimização de modelos e hiperparâmetros
-- Cross-validation e controle de overfitting
-- Aprendizado semi-supervisionado (Self-Training)
+* Modelos supervisionados de classificação e regressão
+* Ensemble Learning (Random Forest, Boosting)
+* XGBoost aplicado a problemas reais
+* Seleção e engenharia de atributos
+* Preparação de dados para modelos preditivos
+* Validação e avaliação de modelos
+* Métricas de desempenho (MAE, RMSE, Accuracy e outras)
+* Otimização de modelos e hiperparâmetros
+* Cross-validation e controle de overfitting
+* Aprendizado semi-supervisionado (Self-Training)
 
 ---
 
 ## 📈 Séries Temporais & Forecasting
 
-- Modelagem de séries temporais para previsão
-- Forecasting aplicado a cenários de negócio
-- Prophet e modelos estatísticos de previsão
-- Suavização exponencial (Holt-Winters)
-- Médias móveis e modelos baseline
-- Decomposição de séries (tendência, sazonalidade e ruído)
-- Detecção de anomalias baseada em resíduos
+* Modelagem de séries temporais para previsão
+* Forecasting aplicado a cenários de negócio
+* Prophet e modelos estatísticos de previsão
+* Suavização exponencial (Holt-Winters)
+* Médias móveis e modelos baseline
+* Decomposição de séries (tendência, sazonalidade e ruído)
+* Análise de resíduos e detecção de padrões
 
 ---
 
 ## ⚡ Engenharia de Dados
 
-- Processamento distribuído com Apache Spark e PySpark
-- Construção e organização de pipelines de dados
-- Preparação e transformação de dados em escala
-- Conceitos de arquitetura de dados
-- AWS (S3, Glue e Data Lake - fundamentos)
-- Integração entre dados, modelos e aplicações
+* Processamento distribuído com Apache Spark e PySpark
+* Processamento de linguagem natural com Spark
+* Construção e organização de pipelines de dados
+* Preparação e transformação de dados
+* Conceitos de arquitetura de dados
+* AWS (S3, Glue e Data Lake - fundamentos)
+* Integração entre dados, modelos e aplicações
 
 ---
 
 ## 🧠 Inteligência Artificial, LLMs & RAG
 
-- Fundamentos de Inteligência Artificial aplicada
-- Processamento de Linguagem Natural (NLP)
-- Large Language Models (LLMs)
-- Arquiteturas RAG (Retrieval-Augmented Generation)
-- Integração entre LLMs e bancos de dados vetoriais
-- Sistemas inteligentes de busca e recuperação de informação
-- LlamaIndex aplicado a aplicações com LLMs
-- Avaliação e monitoramento de respostas geradas por IA
+* Fundamentos de Inteligência Artificial aplicada
+* Processamento de Linguagem Natural (NLP)
+* Large Language Models (LLMs)
+* Arquiteturas RAG (Retrieval-Augmented Generation)
+* Integração entre LLMs e bancos de dados vetoriais
+* Sistemas inteligentes de busca e recuperação de informação
+* LlamaIndex aplicado a aplicações com LLMs
+* Avaliação e monitoramento de respostas geradas por IA
+* Construção de aplicações inteligentes orientadas por linguagem natural
 
 ---
 
 ## 🏗️ Engenharia de Software aplicada à IA
 
-- Arquitetura modular de aplicações inteligentes
-- Organização profissional de projetos Python
-- Separação de responsabilidades e componentes
-- Desenvolvimento orientado a versões
-- Testes automatizados
-- Documentação técnica
-- Registro de decisões arquiteturais
-- Git e GitHub com fluxo de branches
-- Estruturação de sistemas preparados para evolução
+* Arquitetura modular de aplicações inteligentes
+* Organização profissional de projetos Python
+* Separação de responsabilidades e componentes
+* Desenvolvimento orientado a versões
+* Testes automatizados
+* Documentação técnica
+* Registro de decisões arquiteturais
+* Git e GitHub com fluxo de branches
+* Estruturação de sistemas preparados para evolução
 
 ---
 
 ## 🛠️ Ferramentas & Desenvolvimento
 
-- Git & GitHub para versionamento profissional
-- Streamlit para aplicações interativas de dados
-- Dash para dashboards analíticos e aplicações web
-- Jupyter Notebook para experimentação
-- VS Code como ambiente de desenvolvimento
-- Linux / Terminal para workflows de dados
-- Docker (conceitos de empacotamento e execução de aplicações)
+* Git & GitHub para versionamento profissional
+* Streamlit para aplicações interativas de dados
+* Dash para dashboards analíticos e aplicações web
+* Jupyter Notebook para experimentação
+* VS Code como ambiente de desenvolvimento
+* Linux / Terminal para workflows de dados
+* Docker (conceitos de empacotamento e execução de aplicações)
+
 ---
 
 ## 🎓 Certificações
 
 Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
+---
+
 ### 📊 Formação em Data Science
 
 <p align="center">
 
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1148995/certificate">
-<img src="https://img.shields.io/badge/Data%20Science%20Career%20🥉-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science%20Career%20Path-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
+</a>
+
+<a href="https://cursos.alura.com.br/certificate/a8be99db-cc7d-481d-90dd-f07619aabfa8?lang">
+<img src="https://img.shields.io/badge/Checkpoint%20Cientista%20de%20Dados%20Nível%202-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
 </a>
 
 </p>
@@ -211,10 +225,7 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 </a>
 
 </p>
-
----
-
-### 📊 Séries Temporais & Forecasting
+### 📈 Séries Temporais & Forecasting
 
 <p align="center">
 
@@ -234,7 +245,7 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 ---
 
-### ⚡ Engenharia de Dados & Cloud
+### ⚡ Big Data & Apache Spark
 
 <p align="center">
 
@@ -246,13 +257,23 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 <img src="https://img.shields.io/badge/PySpark-black?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
+<a href="https://cursos.alura.com.br/certificate/1f493328-03b4-4632-ae11-57c14193d098?lang">
+<img src="https://img.shields.io/badge/Spark%20NLP-black?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</a>
+
+<a href="https://cursos.alura.com.br/certificate/3994b1f2-8897-4eda-86d7-ff73c5b7c937?lang">
+<img src="https://img.shields.io/badge/Spark%20Recommendation%20Systems-black?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</a>
+
+<a href="https://cursos.alura.com.br/certificate/b597f06b-b3ab-44e1-8034-30f5ea934038?lang">
+<img src="https://img.shields.io/badge/Spark%20Classification%20Models-black?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</a>
+
 <a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45">
 <img src="https://img.shields.io/badge/AWS%20Data%20Engineering-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
 
 </p>
-
----
 
 ### 💾 Databases
 
@@ -294,12 +315,12 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 ---
 
-### 🤖 Artificial Intelligence, Deep Learning & LLM
+### 🤖 Artificial Intelligence, LLMs & Generative AI
 
 <p align="center">
 
 <a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d">
-<img src="https://img.shields.io/badge/NLP%20%26%20AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP%20%26%20Artificial%20Intelligence-black?style=for-the-badge"/>
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/101d3c76-35ff-4c1e-b811-7fe7b653c57c?lang">
@@ -318,7 +339,9 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 <img src="https://img.shields.io/badge/Keras%20Deep%20Learning-black?style=for-the-badge&logo=keras&logoColor=white"/>
 </a>
 
-</p> 
+</p>
+
+---
 
 
 
