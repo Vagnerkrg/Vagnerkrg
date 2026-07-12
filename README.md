@@ -378,7 +378,7 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
     <img src="https://img.shields.io/badge/LinkedIn-Vagner%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://wa.me/55SEUNUMERO">
+  <a href="https://wa.me/024992995944">
     <img src="https://img.shields.io/badge/WhatsApp-Entre%20em%20Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
