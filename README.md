@@ -160,11 +160,15 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 <p align="center">
 
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1148995/certificate">
-<img src="https://img.shields.io/badge/Data%20Science%20Career%20Path-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science%20Career%20🥉-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
+
 </a>
 
 <a href="https://cursos.alura.com.br/certificate/a8be99db-cc7d-481d-90dd-f07619aabfa8?lang">
-<img src="https://img.shields.io/badge/Checkpoint%20Cientista%20de%20Dados%20Nível%202-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science%20Career%20🥈-Alura-black?style=for-the-badge&logo=alura&logoColor=white"/>
+
 </a>
 
 </p>
