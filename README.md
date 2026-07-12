@@ -1,6 +1,9 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120px"> </h1> 
+
+
+<h1 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180px"> </h1> 
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&style=flat)
 
 <h3 align="center">AI Engineer | Data Scientist | LLM Applications | Machine Learning</h1>
 <h4 align="center">Python | SQL | RAG | LlamaIndex | Spark | AWS | Data Intelligence</h3>
