@@ -364,8 +364,26 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 - ✅ Monitoramento e avaliação contínua dos modelos
 - ✅ Preparação para deploy e evolução em ambientes de produção
 - ✅ Foco em impacto de negócio e tomada de decisão baseada em dados
-
+  
 ---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:vagnerkrg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vagnerkrg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/vagnerferreiradata">
+    <img src="https://img.shields.io/badge/LinkedIn-Vagner%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/55SEUNUMERO">
+    <img src="https://img.shields.io/badge/WhatsApp-Entre%20em%20Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+
 
 
 ## 📊 GitHub Stats
@@ -375,15 +393,6 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vagnerkrg&theme=tokyonight"/>
 
 </p>
-
----
-
-## 📫 Contato
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/vagnerferreiradata  
-- 📧 Email: vagnerkrg@gmail.com  
-
----
 
 <p align="center">
 ⭐ Em evolução contínua em IA, Data Science e Engenharia de Dados para soluções reais. ⭐
