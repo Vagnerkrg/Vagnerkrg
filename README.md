@@ -420,20 +420,22 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 
 <p align="center">
 
-  <a href="mailto:vagnerkrg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vagnerkrg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:vagnerkrg@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/vagnerferreiradata">
-    <img src="https://img.shields.io/badge/LinkedIn-Vagner%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/vagnerferreiradata">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://wa.me/5524992995944">
-    <img src="https://img.shields.io/badge/WhatsApp-Entre%20em%20Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+<a href="https://github.com/Vagnerkrg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
+
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
