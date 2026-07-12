@@ -414,7 +414,6 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 - ✅ Preparação para deploy e evolução em ambientes de produção
 - ✅ Foco em impacto de negócio e tomada de decisão baseada em dados
   
----
 
 ## 📫 Contato
 
@@ -438,6 +437,8 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 
 
 <br>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
