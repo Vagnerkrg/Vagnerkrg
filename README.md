@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=ff00ff)
+![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F)
 
 <h1 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140px"> </h1> 
 </h1>
