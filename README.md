@@ -150,9 +150,12 @@ Tecnologias e conceitos aplicados:
 
 Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
----
+<br>
 
 ### 📊 Formação em Data Science
+
+<br>
+<br>
 
 <p align="center">
 
@@ -166,10 +169,12 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 </p>
 
----
+<br>
 
 ### 📊 Análise de Dados & Estatística
 
+<br>
+<br>
 <p align="center">
 
 <a href="https://cursos.alura.com.br/certificate/180a5288-ca72-402d-96ab-c8ccb5381d9e?lang">
@@ -190,9 +195,12 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 </p>
 
----
+<br>
 
 ### 🤖 Machine Learning
+
+<br>
+<br>
 
 <p align="center">
 
@@ -225,7 +233,13 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 </a>
 
 </p>
+
+<br>
+
 ### 📈 Séries Temporais & Forecasting
+
+<br>
+<br>
 
 <p align="center">
 
@@ -243,10 +257,13 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 </p>
 
----
+<br>
+
 
 ### ⚡ Big Data & Apache Spark
 
+<br>
+<br>
 <p align="center">
 
 <a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1">
@@ -275,7 +292,12 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 </p>
 
+<br>
+<br>
+
 ### 💾 Databases
+
+<br>
 
 <p align="center">
 
@@ -289,10 +311,11 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 
 </p>
 
----
 
 ### 📊 Data Visualization & BI
 
+<br>
+<br>
 <p align="center">
 
 <a href="https://cursos.alura.com.br/certificate/602f4a86-35e8-447d-9726-d842d86fdb94?lang">
@@ -312,11 +335,12 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 </a>
 
 </p>
+<br>
 
----
 
 ### 🤖 Artificial Intelligence, LLMs & Generative AI
-
+<br>
+<br>
 <p align="center">
 
 <a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d">
@@ -340,9 +364,7 @@ Todas as badges abaixo são clicáveis e direcionam para certificados oficiais.
 </a>
 
 </p>
-
----
-
+<br>
 
 
 ## 📌 Projetos em Destaque
