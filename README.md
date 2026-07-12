@@ -428,8 +428,8 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Vagnerkrg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://wa.me/5524992995944">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
