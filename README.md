@@ -394,5 +394,5 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 </p>
 
 <p align="center">
-⭐ Em evolução contínua em IA, Data Science e Engenharia de Dados para soluções reais. ⭐
+⭐ Evolução contínua em IA, Data Science e Engenharia de Dados para soluções reais. ⭐
 </p>
