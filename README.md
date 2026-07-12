@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&style=flat)
 
-<h1 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180px"> </h1> 
+<h1 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140px"> </h1> 
 </h1>
 
 
