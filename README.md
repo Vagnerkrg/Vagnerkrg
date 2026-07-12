@@ -418,6 +418,8 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 
 ## 📫 Contato
 
+<br>
+
 <p align="center">
 
 <a href="mailto:vagnerkrg@gmail.com">
@@ -435,7 +437,7 @@ Todos os projetos são estruturados seguindo boas práticas de **desenvolvimento
 </p>
 
 
-</p>
+<br>
 ## 📊 GitHub Stats
 
 <p align="center">
