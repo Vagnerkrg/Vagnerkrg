@@ -14,7 +14,6 @@
   Desenvolvo sistemas inteligentes baseados em dados, combinando Inteligência Artificial, Machine Learning e Engenharia de Software para criar aplicações escaláveis, desde pipelines analíticos até soluções com LLMs e RAG.
 </p>
 
----
 
 ## 🚀 Apresentação
 
@@ -26,7 +25,6 @@ Tenho experiência prática na criação de análises orientadas por dados, mode
 
 Minha trajetória une fundamentos sólidos de **Ciência de Dados** com a construção de aplicações modernas baseadas em **LLMs, RAG e agentes inteligentes**.
 
----
 
 ## 🚀 Atualmente trabalhando em
 
@@ -49,7 +47,6 @@ Tecnologias e conceitos aplicados:
 
 `Python` `LLMs` `RAG` `LlamaIndex` `Vector Databases` `NLP` `Machine Learning` `Data Analysis` `Git` `Software Architecture`
 
----
 
 # 🧠 Stack de Conhecimento
 
@@ -65,7 +62,6 @@ Tecnologias e conceitos aplicados:
 * Análise de tendências e padrões
 * Storytelling com dados e comunicação de insights
 
----
 
 ## 🤖 Machine Learning
 
@@ -80,7 +76,6 @@ Tecnologias e conceitos aplicados:
 * Cross-validation e controle de overfitting
 * Aprendizado semi-supervisionado (Self-Training)
 
----
 
 ## 📈 Séries Temporais & Forecasting
 
@@ -92,7 +87,6 @@ Tecnologias e conceitos aplicados:
 * Decomposição de séries (tendência, sazonalidade e ruído)
 * Análise de resíduos e detecção de padrões
 
----
 
 ## ⚡ Engenharia de Dados
 
@@ -104,7 +98,6 @@ Tecnologias e conceitos aplicados:
 * AWS (S3, Glue e Data Lake - fundamentos)
 * Integração entre dados, modelos e aplicações
 
----
 
 ## 🧠 Inteligência Artificial, LLMs & RAG
 
@@ -118,7 +111,6 @@ Tecnologias e conceitos aplicados:
 * Avaliação e monitoramento de respostas geradas por IA
 * Construção de aplicações inteligentes orientadas por linguagem natural
 
----
 
 ## 🏗️ Engenharia de Software aplicada à IA
 
@@ -132,7 +124,6 @@ Tecnologias e conceitos aplicados:
 * Git e GitHub com fluxo de branches
 * Estruturação de sistemas preparados para evolução
 
----
 
 ## 🛠️ Ferramentas & Desenvolvimento
 
@@ -144,7 +135,6 @@ Tecnologias e conceitos aplicados:
 * Linux / Terminal para workflows de dados
 * Docker (conceitos de empacotamento e execução de aplicações)
 
----
 
 ## 🎓 Certificações
 
@@ -379,7 +369,6 @@ Os projetos seguem uma abordagem profissional, combinando ciência de dados, des
 
 **entendimento do problema → exploração dos dados → engenharia de dados → modelagem → desenvolvimento da aplicação → validação → testes → documentação → monitoramento e evolução contínua.**
 
----
 
 ### 🚀 Principais soluções desenvolvidas
 
@@ -396,7 +385,6 @@ Os projetos seguem uma abordagem profissional, combinando ciência de dados, des
 - 📊 **Storytelling com dados** para transformação de análises técnicas em decisões de negócio
 - 🏗️ **Engenharia de Software aplicada à IA**, utilizando arquitetura modular, organização de código, testes e boas práticas de desenvolvimento
 
----
 
 ### 🧩 Características dos projetos
 
