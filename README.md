@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120px"></h1>
 
-<h3 align="center">AI Engineer | Data Scientist | LLM & Agentic Systems</h3>
+<h3 align="center">Data Scientist | AI Engineer | LLM & Agentic Systems</h3>
 <h4 align="center">Python · SQL · RAG · LlamaIndex · Spark · AWS</h4>
 
 <p align="center">
