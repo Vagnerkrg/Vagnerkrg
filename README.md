@@ -60,6 +60,7 @@ Streamlit · Dash · Jupyter · VS Code · Docker (fundamentos)
 ---
 
 ## 🎓 Certificações
+Todas as badges com links dos certificados 
 
 <details>
 <summary><b>Ver certificações (Alura)</b></summary>
