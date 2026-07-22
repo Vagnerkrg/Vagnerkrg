@@ -71,7 +71,7 @@ Todas as badges com links dos certificados
 
 **Engenharia de Software**
 
-<a href="https://cursos.alura.com.br/degree/certificate/2ce5967b-2505-4ca5-8504-60399f5c5e50"><img src="https://img.shields.io/badge/Engenharia%20de%20Software%20Trilha-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/degree/certificate/2ce5967b-2505-4ca5-8504-60399f5c5e50"><img src="https://img.shields.io/badge/Engenharia%20de%20Software%20-black?style=flat-square"/></a>
 
 **Análise de Dados & Estatística**
 
