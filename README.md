@@ -99,7 +99,62 @@ Todas as badges com links dos certificados
 **Big Data & Apache Spark**
 
 <a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1"><img src="https://img.shields.io/badge/Apache%20Spark-black?style=flat-square&logo=apachespark&logoColor=white"/></a>
-<a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99"><img src="https://img.shields.io/badge/PySpar
+<a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99"><img src="https://img.shields.io/badge/PySpark-black?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/1f493328-03b4-4632-ae11-57c14193d098?lang"><img src="https://img.shields.io/badge/Spark%20NLP-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/3994b1f2-8897-4eda-86d7-ff73c5b7c937?lang"><img src="https://img.shields.io/badge/Spark%20Recommendation-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/b597f06b-b3ab-44e1-8034-30f5ea934038?lang"><img src="https://img.shields.io/badge/Spark%20Classification-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/be7a1635-0105-4cca-a39f-4fcd38cbde45"><img src="https://img.shields.io/badge/AWS%20Data%20Engineering-black?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+
+**Databases**
+
+<a href="https://cursos.alura.com.br/certificate/75df75a1-6077-4f49-a191-d4f3b4027558?lang"><img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/14ca8773-662c-4e44-90f0-5181de995daf?lang"><img src="https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=white"/></a>
+
+**Visualização & BI**
+
+<a href="https://cursos.alura.com.br/certificate/602f4a86-35e8-447d-9726-d842d86fdb94?lang"><img src="https://img.shields.io/badge/Data%20Visualization-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/storytelling-com-dados-e-comunicacao-para-alta-gestao/certificate"><img src="https://img.shields.io/badge/Data%20Storytelling-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/dash-dashboards-modelos-machine-learning/certificate"><img src="https://img.shields.io/badge/Dash-black?style=flat-square&logo=plotly&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/9f8e3e64-1e37-40d5-8aaa-da28ef513898"><img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit&logoColor=white"/></a>
+
+**IA, LLMs & Generative AI**
+
+<a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d"><img src="https://img.shields.io/badge/NLP%20%26%20AI-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/101d3c76-35ff-4c1e-b811-7fe7b653c57c?lang"><img src="https://img.shields.io/badge/LlamaIndex%20RAG-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/48710fb1-fc56-4112-8727-5dd626d9b4cb?lang"><img src="https://img.shields.io/badge/Vector%20Databases-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/2e04e375-e2c0-4c12-8efb-c4db127d8313?lang"><img src="https://img.shields.io/badge/LlamaIndex%20Pandas-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/312879f4-75e2-480e-b2e9-b29559e2b8c7?lang"><img src="https://img.shields.io/badge/Keras%20Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/6d6a1300-846a-4a36-b973-fbef074c252c?lang=pt_BR"><img src="https://img.shields.io/badge/CNN%20Image%20Classification-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/47a4ba32-c13c-4ec4-a6ec-7392e41e0a03?lang=pt_BR"><img src="https://img.shields.io/badge/GANs%20%26%20Stable%20Diffusion-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/862469d8-fb51-4072-a109-a48d76e25a00?lang=pt_BR"><img src="https://img.shields.io/badge/Audio%20Deep%20Learning-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/5de2e5b7-bb85-4a87-a47c-41b90d855723"><img src="https://img.shields.io/badge/NLP%20Sentence%20Similarity-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/32299ff7-577d-4bc8-a3de-f2265655269c"><img src="https://img.shields.io/badge/LLM%20Chatbot%20Apps-black?style=flat-square"/></a>
+
+**Visão Computacional**
+
+<a href="https://cursos.alura.com.br/certificate/a8094623-de99-4feb-b757-8384aea935f9?lang=pt_BR"><img src="https://img.shields.io/badge/Hand%20Tracking%20OpenCV-black?style=flat-square&logo=opencv&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/certificate/9302cf81-92a5-480a-aaa7-1e2eb52a0e72?lang=pt_BR"><img src="https://img.shields.io/badge/OCR%20%26%20OpenCV-black?style=flat-square&logo=opencv&logoColor=white"/></a>
+
+**Arquitetura de Software & Microsserviços**
+
+<a href="https://cursos.alura.com.br/certificate/3a0725c9-dc1c-4eab-b078-24ef6db0c333?lang=pt_BR"><img src="https://img.shields.io/badge/Microsservi%C3%A7os%20Conceitos-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/942a314c-77bb-4ab3-957d-d9d935f68e4c?lang=pt_BR"><img src="https://img.shields.io/badge/Microsservi%C3%A7os%20Padr%C3%B5es%20de%20Projeto-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/3b58a16b-380d-498b-a56e-fede0b651ea3?lang=pt_BR"><img src="https://img.shields.io/badge/Microsservi%C3%A7os%20na%20Pr%C3%A1tica-black?style=flat-square"/></a>
+
+**DevOps & CI/CD**
+
+<a href="https://cursos.alura.com.br/certificate/92246bac-5f52-4097-9a81-9badfc4ce2cf?lang=pt_BR"><img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20Cont%C3%ADnua-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/39bded10-efa6-44e6-b75e-d96db5387a97?lang=pt_BR"><img src="https://img.shields.io/badge/Entrega%20Cont%C3%ADnua-black?style=flat-square"/></a>
+
+**Qualidade & Testes**
+
+<a href="https://cursos.alura.com.br/certificate/5a87a0f1-b20c-487c-9276-fa60b6386180"><img src="https://img.shields.io/badge/Quality%20Assurance-black?style=flat-square"/></a>
+
+**Metodologias Ágeis**
+
+<a href="https://cursos.alura.com.br/certificate/53d1bb5b-2fa6-4dfa-a7bb-b3da73ef54ff?lang=pt_BR"><img src="https://img.shields.io/badge/Scrum-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/db83a299-5982-4f18-9297-1f4172aaab21?lang=pt_BR"><img src="https://img.shields.io/badge/Equipes%20%C3%81geis-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/certificate/6a869bd0-f2f9-4920-bd65-3cb3e6f8100c"><img src="https://img.shields.io/badge/Extreme%20Programming-black?style=flat-square"/></a>
 
 </details>
 ---
