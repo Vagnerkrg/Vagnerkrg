@@ -101,6 +101,7 @@ Todas as badges com links dos certificados
 <a href="https://cursos.alura.com.br/certificate/1b7ba0d8-9c1e-41cb-8b82-308b7da5b8f1"><img src="https://img.shields.io/badge/Apache%20Spark-black?style=flat-square&logo=apachespark&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/ca65ad8c-ec60-4257-8f34-ffd4c22acd99"><img src="https://img.shields.io/badge/PySpar
 
+</details>
 ---
 
 ## 📊 GitHub Stats
