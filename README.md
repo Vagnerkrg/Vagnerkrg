@@ -1,13 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F)
 
-<h1 align="center"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140px"></h1>
 
-<h3 align="center">Data Scientist | AI Engineer | LLM & Agentic Systems</h3>
-<h4 align="center">Python · SQL · RAG · LlamaIndex · Spark · AWS</h4>
+<h3 align="center">Data Scientist | Data Engineer | AI/LLM Engineer</h3>
+<h4 align="center">Python · SQL · Power BI · PySpark · AWS · Machine Learning</h4>
 
 <p align="center">
-  Construo sistemas inteligentes que transformam dados em decisões — combinando Data Science, Machine Learning e Engenharia de Software aplicada a IA generativa e agentes autônomos.
-</p>
+  Profissional analítico e orientado a resultados, com atuação prática em Ciência de Dados, Engenharia de Dados e Inteligência Artificial Generativa. Construo pipelines de dados, modelos de Machine Learning e sistemas inteligentes baseados em LLMs e RAG — combinando análise estatística, engenharia de software e IA generativa. 
 
 <p align="center">
   <a href="mailto:vagnerkrg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -42,21 +41,23 @@ O sistema evolui por capacidades cognitivas — reasoning, planning, execution, 
 > Os demais repositórios públicos do meu perfil são exercícios e projetos de curso — mantidos como registro de aprendizado, não como entregas de portfólio.
 
 ---
+
 ## 🧠 Stack Técnica
 
 **Data Science & ML**
-Python · SQL · Pandas/NumPy · Scikit-learn · XGBoost · EDA · Feature Engineering · Séries Temporais (Prophet, Statsmodels)
+Python · SQL · Pandas/NumPy · Scikit-learn · XGBoost · EDA · Estatística Avançada e Teste de Hipóteses · Feature Engineering · Séries Temporais (Prophet, Statsmodels)
 
 **IA, LLMs & RAG**
-LLMs · RAG · LlamaIndex · Vector Databases · NLP · Doc2vec / Similaridade de Sentenças · Chatbots com LLM (uso de ferramentas e bases de conhecimento) · Avaliação de respostas geradas por IA
+LLMs · RAG · LlamaIndex · Vector Databases · Hugging Face (transfer learning) · NLP (TF-IDF, N-grams, análise de sentimentos) · Chatbots com LLM · Deep Learning (Keras/TensorFlow) · Visão Computacional (OpenCV)
 
-**Engenharia de Dados & Software**
-Apache Spark / PySpark · AWS (S3, Glue) · Arquitetura modular · Testes automatizados · Quality Assurance (planejamento de testes e gestão de bugs) · Metodologias Ágeis (Scrum, XP) · Git/GitHub · Documentação técnica e ADRs
+**Engenharia de Dados & Cloud**
+Apache Spark/PySpark · AWS (S3, Glue, Data Lake) · PostgreSQL · SQLite · Arquitetura modular · Testes automatizados · Quality Assurance · Metodologias Ágeis (Scrum, XP) · CI/CD · Microsserviços · Git/GitHub · Documentação técnica e ADRs
 
-**Ferramentas**
-Streamlit · Dash · Jupyter · VS Code · Docker (fundamentos)
+**Automação & Visualização**
+Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas complexas) · n8n · Docker · Integração de APIs
 
 ---
+
 ## 🎓 Certificações
 Todas as badges com links dos certificados 
 
