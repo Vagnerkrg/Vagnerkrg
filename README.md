@@ -20,17 +20,20 @@
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
 
-Plataforma de inteligência cognitiva construída sobre LLMs, RAG e arquitetura de agentes autônomos, capaz de transformar perguntas em linguagem natural em estratégias de raciocínio, planejamento, execução e avaliação de resultados.
+Plataforma de inteligência cognitiva construída sobre LLMs, arquitetura de agentes autônomos e Decision Intelligence, capaz de transformar perguntas em linguagem natural em ciclos completos de raciocínio, planejamento, execução, memória, avaliação cognitiva e melhoria contínua.
 
-O sistema evolui por capacidades cognitivas — reasoning, planning, execution, evaluation, knowledge e adaptation — seguindo um processo próprio de engenharia (Capability Definition → Architecture Blueprint → ADR → Domain Modeling → Contracts → Implementation → Tests → Validation → Documentation → Release).
+O sistema evolui por capacidades cognitivas — Reasoning, Planning, Execution, Decision Intelligence, Long-Term Memory, Memory Intelligence, Cognitive Evaluation, Reflection, Learning e Self-Improvement — seguindo um processo próprio de engenharia (Capability Definition → Architecture Blueprint → ADR → Domain Modeling → Contracts → Implementation → Automated Tests → Validation → Documentation → Release).
 
-**Stack:** Python · LLMs · RAG · LlamaIndex · Vector Databases · Arquitetura de Agentes · Testes Automatizados
+Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long-Term Memory · Memory Intelligence · Cognitive Evaluation · Self-Improvement · RAG · LlamaIndex · Vector Databases · FastAPI · Testes Automatizados (Pytest)
 
 **Destaques de engenharia:**
-- 🏗️ Arquitetura modular em camadas cognitivas independentes (Perception → Reasoning → Planning → Execution → Evaluation → Memory → Knowledge → Adaptation)
-- 🧪 Suite de testes automatizados cobrindo domain, services e integração de cada capacidade
-- 📄 Documentação técnica e registro formal de decisões arquiteturais (ADRs)
-- 🔀 Evolução versionada por capability, com histórico de releases documentado
+
+* 🏗️ Arquitetura cognitiva modular baseada em capacidades independentes (Reasoning → Planning → Execution → Decision Intelligence → Long-Term Memory → Memory Intelligence → Cognitive Evaluation → Reflection → Learning → Self-Improvement)
+* 🧪 Suite de testes automatizados com cobertura de Domain, Contracts, Services, Integration e Runtime para cada capacidade da plataforma
+* 📄 Documentação técnica estruturada por Architecture Blueprints, ADRs, Domain Modeling, Contracts e documentação de releases
+* 🔀 Evolução orientada por capacidades (Capability-Driven Engineering), com versionamento incremental, histórico de releases e validação contínua por testes automatizados
+
+
 
 <p align="left">
   <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system">
