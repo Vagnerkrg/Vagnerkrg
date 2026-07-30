@@ -19,22 +19,38 @@
 
 ---
 
-## 🚀 Projeto em Destaque  ![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F)
+<h2>
+🚀 Projeto em Destaque
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F">
+</h2>
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
 
 Plataforma de inteligência cognitiva construída sobre LLMs, arquitetura de agentes autônomos e Decision Intelligence, capaz de transformar perguntas em linguagem natural em ciclos completos de raciocínio, planejamento, execução, memória, avaliação cognitiva e melhoria contínua.
 
-O sistema evolui por capacidades cognitivas — Reasoning, Planning, Execution, Decision Intelligence, Long-Term Memory, Memory Intelligence, Cognitive Evaluation, Reflection, Learning e Self-Improvement — seguindo um processo próprio de engenharia (Capability Definition → Architecture Blueprint → ADR → Domain Modeling → Contracts → Implementation → Automated Tests → Validation → Documentation → Release).
+O sistema evolui por capacidades cognitivas independentes — Reasoning, Planning, Execution, Decision Intelligence, Long-Term Memory, Memory Intelligence, Cognitive Evaluation, Reflection, Learning e Self-Improvement — seguindo um processo próprio de engenharia:
 
-Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long-Term Memory · Memory Intelligence · Cognitive Evaluation · Self-Improvement · RAG · LlamaIndex · Vector Databases · FastAPI · Testes Automatizados (Pytest)
+(Capability Definition → Architecture Blueprint → ADR → Domain Modeling → Contracts → Implementation → Automated Tests → Validation → Documentation → Release).
+
+Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long-Term Memory · Memory Intelligence · Cognitive Evaluation · Self-Improvement · RAG · LlamaIndex · Vector Databases · FastAPI · Machine Learning · Testes Automatizados (Pytest)
+
 
 **Destaques de engenharia:**
 
 * 🏗️ Arquitetura cognitiva modular baseada em capacidades independentes (Reasoning → Planning → Execution → Decision Intelligence → Long-Term Memory → Memory Intelligence → Cognitive Evaluation → Reflection → Learning → Self-Improvement)
-* 🧪 Suite de testes automatizados com cobertura de Domain, Contracts, Services, Integration e Runtime para cada capacidade da plataforma
+
+* 🤖 Arquitetura de agentes com ciclo completo de inteligência, incluindo raciocínio, planejamento, execução, memória contextual, reflexão e evolução contínua
+
+* 🧠 Memory Intelligence Layer implementada para avaliação, relevância, consolidação e utilização inteligente de memórias no ciclo dos agentes
+
+* 📊 Cognitive Evaluation Layer em desenvolvimento para medir qualidade cognitiva, desempenho dos agentes e evolução dos processos inteligentes
+
+* 🧪 Suite de testes automatizados cobrindo Domain, Contracts, Services, Integration e Runtime para cada capacidade da plataforma (817 testes passando)
+
 * 📄 Documentação técnica estruturada por Architecture Blueprints, ADRs, Domain Modeling, Contracts e documentação de releases
-* 🔀 Evolução orientada por capacidades (Capability-Driven Engineering), com versionamento incremental, histórico de releases e validação contínua por testes automatizados
+
+* 🔀 Evolução orientada por capacidades (Capability-Driven Engineering), com versionamento incremental, milestones, issues, pull requests, histórico arquitetural e validação contínua por testes automatizados
 
 
 
