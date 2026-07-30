@@ -2,13 +2,14 @@
   <img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/matrix-rain_1.svg" width="100%" alt="code rain banner"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F)
+
 
 <h3 align="center">Data Scientist | Data Engineer | AI/LLM Engineer</h3>
 <h4 align="center">Python · SQL · Power BI · PySpark · AWS · Machine Learning</h4>
 
 <p align="center">
   Profissional analítico e orientado a resultados, com atuação prática em Ciência de Dados, Engenharia de Dados e Inteligência Artificial Generativa. Construo pipelines de dados, modelos de Machine Learning e sistemas inteligentes baseados em LLMs e RAG — combinando análise estatística, engenharia de software e IA generativa. 
+
 
 <p align="center">
   <a href="mailto:vagnerkrg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -18,7 +19,7 @@
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto em Destaque  ![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F)
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
 
