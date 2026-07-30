@@ -1,6 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F)
 
-<h1 align="center"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140px"></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/matrix-rain.svg" width="100%" alt="code rain banner"/>
+</p>
 
 <h3 align="center">Data Scientist | Data Engineer | AI/LLM Engineer</h3>
 <h4 align="center">Python · SQL · Power BI · PySpark · AWS · Machine Learning</h4>
