@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/matrix-rain_1.svg" width="100%" alt="code rain banner"/>
+  <img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/matrix-rain_2.svg" width="100%" alt="code rain banner"/>
 </p>
 
 
