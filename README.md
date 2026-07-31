@@ -79,18 +79,25 @@ Apache Spark/PySpark · AWS (S3, Glue, Data Lake) · PostgreSQL · SQLite · Arq
 Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas complexas) · n8n · Docker · Integração de APIs
 
 ---
+---
 
 ## 🎓 Certificações
-Todas as badges com links dos certificados 
+
+**🏆 Formação Cientista de Dados — Certificado de Conclusão**
+
+<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/certificate"><img src="https://img.shields.io/badge/Data%20Science%20-%20Conclus%C3%A3o%20da%20Forma%C3%A7%C3%A3o-gold?style=flat-square"/></a>
+
+Todas as badges com links dos certificados
 
 <details>
-<summary><b>Ver certificações (Alura)</b></summary>
+<summary><b>Ver certificações </b></summary>
 <br>
 
 **Data Science**
 
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1148995/certificate"><img src="https://img.shields.io/badge/Data%20Science%20Career-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/a8be99db-cc7d-481d-90dd-f07619aabfa8?lang"><img src="https://img.shields.io/badge/Data%20Science%20Career%20II-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1149043/certificate"><img src="https://img.shields.io/badge/Data%20Science%20III-black?style=flat-square"/></a>
 
 **Engenharia de Software**
 
@@ -152,6 +159,8 @@ Todas as badges com links dos certificados
 <a href="https://cursos.alura.com.br/certificate/862469d8-fb51-4072-a109-a48d76e25a00?lang=pt_BR"><img src="https://img.shields.io/badge/Audio%20Deep%20Learning-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/5de2e5b7-bb85-4a87-a47c-41b90d855723"><img src="https://img.shields.io/badge/NLP%20Sentence%20Similarity-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/32299ff7-577d-4bc8-a3de-f2265655269c"><img src="https://img.shields.io/badge/LLM%20Chatbot%20Apps-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/hugging-face-transferindo-aprendizado-modelos-nlp/certificate"><img src="https://img.shields.io/badge/Hugging%20Face%20Transfer%20Learning-black?style=flat-square&logo=huggingface&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/explicabilidade-ia/certificate"><img src="https://img.shields.io/badge/Explicabilidade%20em%20IA-black?style=flat-square"/></a>
 
 **Visão Computacional**
 
@@ -163,6 +172,12 @@ Todas as badges com links dos certificados
 <a href="https://cursos.alura.com.br/certificate/3a0725c9-dc1c-4eab-b078-24ef6db0c333?lang=pt_BR"><img src="https://img.shields.io/badge/Microsservi%C3%A7os%20Conceitos-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/942a314c-77bb-4ab3-957d-d9d935f68e4c?lang=pt_BR"><img src="https://img.shields.io/badge/Microsservi%C3%A7os%20Padr%C3%B5es%20de%20Projeto-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/3b58a16b-380d-498b-a56e-fede0b651ea3?lang=pt_BR"><img src="https://img.shields.io/badge/Microsservi%C3%A7os%20na%20Pr%C3%A1tica-black?style=flat-square"/></a>
+
+**Engenharia de Dados & MLOps**
+
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/engenharia-software-principios-basicos/certificate"><img src="https://img.shields.io/badge/Engenharia%20de%20Software%20para%20Dados-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/deploy-operacionalizacao-modelos/certificate"><img src="https://img.shields.io/badge/MLOps-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/teste-garantia-qualidade/certificate"><img src="https://img.shields.io/badge/Engenharia%20de%20Pipelines%20ML%20%2B%20AWS-black?style=flat-square"/></a>
 
 **DevOps & CI/CD**
 
@@ -178,8 +193,10 @@ Todas as badges com links dos certificados
 <a href="https://cursos.alura.com.br/certificate/53d1bb5b-2fa6-4dfa-a7bb-b3da73ef54ff?lang=pt_BR"><img src="https://img.shields.io/badge/Scrum-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/db83a299-5982-4f18-9297-1f4172aaab21?lang=pt_BR"><img src="https://img.shields.io/badge/Equipes%20%C3%81geis-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/6a869bd0-f2f9-4920-bd65-3cb3e6f8100c"><img src="https://img.shields.io/badge/Extreme%20Programming-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/metodologia-agil-fundamentos-cientistas-dados/certificate"><img src="https://img.shields.io/badge/Metodologia%20%C3%81gil%20para%20Cientistas%20de%20Dados-black?style=flat-square"/></a>
 
 </details>
+---
 ---
 
 ## 📊 GitHub Stats
