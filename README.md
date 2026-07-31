@@ -79,7 +79,6 @@ Apache Spark/PySpark · AWS (S3, Glue, Data Lake) · PostgreSQL · SQLite · Arq
 Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas complexas) · n8n · Docker · Integração de APIs
 
 ---
----
 
 ## 🎓 Certificações
 
