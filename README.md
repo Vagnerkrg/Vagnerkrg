@@ -73,13 +73,9 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 
 ## 🎓 Certificações
 
-**🏆 Formação Cientista de Dados — Certificado de Conclusão**
+**🏆 Certificados de Conclusão de Formação**
 
-<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/certificate"><img src="https://img.shields.io/badge/Data%20Science%20-%20Conclus%C3%A3o%20da%20Forma%C3%A7%C3%A3o-gold?style=flat-square"/></a>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Engenharia%20de%20Agentes%20de%20IA%20-%20Em%20Andamento-lightgrey?style=flat-square"/>
+<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/certificate"><img src="assets/badge-ds-concluido.svg"/></a>&nbsp;&nbsp;&nbsp;<img src="assets/badge-em-andamento.svg"/>
 
 Todas as badges com links dos certificados
 
