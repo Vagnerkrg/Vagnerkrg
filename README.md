@@ -83,8 +83,9 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 Todas as badges com links dos certificados
 
 <details>
-<summary><b>Ver certificações </b></summary>
-<br>
+<summary>
+<b>Ver certificações</b> <sub style="opacity:0.6;">( Clique aqui! )</sub>
+</summary>
 
 **Data Science**
 
