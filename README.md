@@ -49,6 +49,9 @@ Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long
   <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system">
     <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions">
+    <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  </a>
 </p>
 
 > Os demais repositórios públicos do meu perfil são exercícios e projetos de curso — mantidos como registro de aprendizado, não como entregas de portfólio.
@@ -195,7 +198,10 @@ Todas as badges com links dos certificados
 
 </details>
 
----
+
+## 📚 Em Formação Agora
+
+<sub>Cursando **Engenharia de Agentes de IA** (Alura) — módulo atual: **LangGraph, orquestrando agentes e multiagentes**.</sub>
 
 ## 📊 GitHub Stats
 
