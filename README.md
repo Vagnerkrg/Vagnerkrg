@@ -77,6 +77,10 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/certificate"><img src="https://img.shields.io/badge/Data%20Science%20-%20Conclus%C3%A3o%20da%20Forma%C3%A7%C3%A3o-gold?style=flat-square"/></a>
 
+&nbsp;
+
+<img src="https://img.shields.io/badge/Engenharia%20de%20Agentes%20de%20IA%20-%20Em%20Andamento-lightgrey?style=flat-square"/>
+
 Todas as badges com links dos certificados
 
 <details>
@@ -139,6 +143,10 @@ Todas as badges com links dos certificados
 
 **IA, LLMs & Generative AI**
 
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-rag-avancado/certificate"><img src="https://img.shields.io/badge/LangChain%20Advanced%20RAG-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-chatbots-rag/certificate"><img src="https://img.shields.io/badge/RAG%20Architectures%20with%20LLMs-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-python-criando-ferramentas-openai/certificate"><img src="https://img.shields.io/badge/LangChain%20Tools%20(OpenAI)-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/python-ia-aplicada/certificate"><img src="https://img.shields.io/badge/Python%20IA%20Aplicada-black?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d"><img src="https://img.shields.io/badge/NLP%20%26%20AI-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/101d3c76-35ff-4c1e-b811-7fe7b653c57c?lang"><img src="https://img.shields.io/badge/LlamaIndex%20RAG-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/48710fb1-fc56-4112-8727-5dd626d9b4cb?lang"><img src="https://img.shields.io/badge/Vector%20Databases-black?style=flat-square"/></a>
@@ -184,6 +192,10 @@ Todas as badges com links dos certificados
 <a href="https://cursos.alura.com.br/certificate/db83a299-5982-4f18-9297-1f4172aaab21?lang=pt_BR"><img src="https://img.shields.io/badge/Equipes%20%C3%81geis-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/6a869bd0-f2f9-4920-bd65-3cb3e6f8100c"><img src="https://img.shields.io/badge/Extreme%20Programming-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/user/vagnerkrg/course/metodologia-agil-fundamentos-cientistas-dados/certificate"><img src="https://img.shields.io/badge/Metodologia%20%C3%81gil%20para%20Cientistas%20de%20Dados-black?style=flat-square"/></a>
+
+**Fundamentos de Programação**
+
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/computacao-fundamentos-computacao-pensamento-computacional/certificate"><img src="https://img.shields.io/badge/Pensamento%20Computacional-black?style=flat-square"/></a>
 
 </details>
 
