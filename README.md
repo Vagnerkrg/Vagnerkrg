@@ -64,7 +64,7 @@ Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long
 Python · SQL · Pandas/NumPy · Scikit-learn · XGBoost · EDA · Estatística Avançada e Teste de Hipóteses · Feature Engineering · Séries Temporais (Prophet, Statsmodels)
 
 **IA, LLMs & RAG**
-LLMs · RAG · LlamaIndex · Vector Databases · Hugging Face (transfer learning) · NLP (TF-IDF, N-grams, análise de sentimentos) · Chatbots com LLM · Deep Learning (Keras/TensorFlow) · Visão Computacional (OpenCV) · Explicabilidade em IA (XAI)
+LLMs · LangChain · RAG (arquiteturas avançadas) · Agentes de IA (Function Calling/Tools) · LlamaIndex · Vector Databases · Hugging Face (transfer learning) · NLP (TF-IDF, N-grams, análise de sentimentos) · Chatbots com LLM · Deep Learning (Keras/TensorFlow) · Visão Computacional (OpenCV) · Explicabilidade em IA (XAI)
 
 **Engenharia de Dados & Cloud**
 Apache Spark/PySpark · AWS (S3, Glue, Data Lake) · PostgreSQL · SQLite · Arquitetura modular · Testes automatizados · MLOps (deploy, automação e monitoramento de modelos) · Quality Assurance · Metodologias Ágeis (Scrum, XP) · CI/CD · Microsserviços · Git/GitHub · Documentação técnica e ADRs
