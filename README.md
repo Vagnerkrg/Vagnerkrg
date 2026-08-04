@@ -69,7 +69,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 ---
 
 ## 🎓 Certificações
-<sub>Todas as badges com links dos certificados</sub>
+<sub>Todas as badges são clicáveis e levam aos respectivos certificados.</sub>
 
 **🏆 Certificados de Conclusão de Formação**
 
