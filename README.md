@@ -16,13 +16,9 @@
   <a href="https://www.linkedin.com/in/vagnerferreiradata"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/5524992995944"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
-
----
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F"></p>
 <h2>
-💎 Projeto em Destaque
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F">
+💎 Projeto em Destaque  
 </h2>
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
