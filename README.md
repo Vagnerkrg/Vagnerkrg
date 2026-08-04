@@ -45,15 +45,8 @@ Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long
 * 📄 Documentação técnica estruturada por Architecture Blueprints, ADRs, Domain Modeling, Contracts e documentação de releases
 * 🔀 Evolução orientada por capacidades (Capability-Driven Engineering), com versionamento incremental, milestones, issues, pull requests, histórico arquitetural e validação contínua por testes automatizados
 
-<p align="left">
-  <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system">
-    <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions">
-    <img src="https://img.shields.io/badge/CI%20%E2%80%A2%20GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/Vagnerkrg/llm-data-intelligence-system"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions"><img src="https://img.shields.io/badge/CI%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
 
 > <sub>Os demais repositórios públicos do meu perfil são exercícios e projetos de curso — mantidos como registro de aprendizado, não como entregas de portfólio.</sub>
 
