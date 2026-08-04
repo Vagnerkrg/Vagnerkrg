@@ -20,7 +20,7 @@
 ---
 
 <h2>
-🚀 Projeto em Destaque
+💎 Projeto em Destaque
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=24292F">
 </h2>
@@ -48,7 +48,7 @@ Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions"><img src="https://img.shields.io/badge/CI%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
 
-> <sub>Os demais repositórios públicos do meu perfil são exercícios e projetos de curso — mantidos como registro de aprendizado, não como entregas de portfólio.</sub>
+> <sub>Alguns dos repositórios públicos do meu perfil são exercícios e projetos de curso — mantidos como registro de aprendizado, não como entregas de portfólio.</sub>
 
 ---
 
