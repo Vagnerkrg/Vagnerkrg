@@ -204,4 +204,4 @@ Todas as badges com links dos certificados
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vagnerkrg&theme=tokyonight"/>
 </p>
 
-<p align="center">⭐ Evolução contínua em Data Science, Engenharia de Dados e Agentes de IA aplicados a sistemas reais. ⭐</p>
+<p align="center">⭐ Evolução contínua em Ciência de Dados, Engenharia de Dados e Agentes de IA aplicados a sistemas reais. ⭐</p>
