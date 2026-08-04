@@ -51,7 +51,7 @@ Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions">
-    <img src="https://img.shields.io/badge/CI%20--%20GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CI%20%E2%80%A2%20GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </a>
 </p>
 
