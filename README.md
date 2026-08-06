@@ -84,6 +84,11 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 <a href="https://cursos.alura.com.br/certificate/a8be99db-cc7d-481d-90dd-f07619aabfa8?lang"><img src="https://img.shields.io/badge/Data%20Science%20Career%20II-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1149043/certificate"><img src="https://img.shields.io/badge/Data%20Science%20III-black?style=flat-square"/></a>
 
+**Fundamentos de Programação para IA**
+
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/computacao-fundamentos-computacao-pensamento-computacional/certificate"><img src="https://img.shields.io/badge/Pensamento%20Computacional-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/python-ia-aplicada/certificate"><img src="https://img.shields.io/badge/Python%20IA%20Aplicada-black?style=flat-square&logo=python&logoColor=white"/></a>
+
 **Engenharia de Software**
 
 <a href="https://cursos.alura.com.br/degree/certificate/2ce5967b-2505-4ca5-8504-60399f5c5e50"><img src="https://img.shields.io/badge/Engenharia%20de%20Software%20-black?style=flat-square"/></a>
@@ -104,6 +109,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 <a href="https://cursos.alura.com.br/certificate/0025fa7c-5881-438b-9623-03cf4093c6ee"><img src="https://img.shields.io/badge/Feature%20Selection-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/7863eadf-3c70-4669-b4c1-8c74570c886a"><img src="https://img.shields.io/badge/Advanced%20Classification-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/11892e27-063e-4d7f-9a17-057da3c45f04?lang"><img src="https://img.shields.io/badge/Semi--Supervised%20Learning-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/explicabilidade-ia/certificate"><img src="https://img.shields.io/badge/Explicabilidade%20em%20IA-black?style=flat-square"/></a>
 
 **Séries Temporais & Forecasting**
 
@@ -132,24 +138,30 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 <a href="https://cursos.alura.com.br/user/vagnerkrg/course/dash-dashboards-modelos-machine-learning/certificate"><img src="https://img.shields.io/badge/Dash-black?style=flat-square&logo=plotly&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/9f8e3e64-1e37-40d5-8aaa-da28ef513898"><img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit&logoColor=white"/></a>
 
-**IA, LLMs & Generative AI**
+**Agentes de IA & RAG**
 
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-rag-avancado/certificate"><img src="https://img.shields.io/badge/LangChain%20Advanced%20RAG-black?style=flat-square"/></a>
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-chatbots-rag/certificate"><img src="https://img.shields.io/badge/RAG%20Architectures%20with%20LLMs-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-python-criando-ferramentas-openai/certificate"><img src="https://img.shields.io/badge/LangChain%20Tools%20(OpenAI)-black?style=flat-square"/></a>
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/python-ia-aplicada/certificate"><img src="https://img.shields.io/badge/Python%20IA%20Aplicada-black?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d"><img src="https://img.shields.io/badge/NLP%20%26%20AI-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-chatbots-rag/certificate"><img src="https://img.shields.io/badge/RAG%20Architectures%20with%20LLMs-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langchain-rag-avancado/certificate"><img src="https://img.shields.io/badge/LangChain%20Advanced%20RAG-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/langgraph-multiagentes/certificate"><img src="https://img.shields.io/badge/LangGraph%20Multiagentes-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/protocolos-agentes-inteligentes/certificate"><img src="https://img.shields.io/badge/Protocolos%20de%20Agentes%20(MCP%2FA2A%2FAG--UI%2FBFA)-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/101d3c76-35ff-4c1e-b811-7fe7b653c57c?lang"><img src="https://img.shields.io/badge/LlamaIndex%20RAG-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/48710fb1-fc56-4112-8727-5dd626d9b4cb?lang"><img src="https://img.shields.io/badge/Vector%20Databases-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/2e04e375-e2c0-4c12-8efb-c4db127d8313?lang"><img src="https://img.shields.io/badge/LlamaIndex%20Pandas-black?style=flat-square"/></a>
+
+**Deep Learning**
+
 <a href="https://cursos.alura.com.br/certificate/312879f4-75e2-480e-b2e9-b29559e2b8c7?lang"><img src="https://img.shields.io/badge/Keras%20Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/6d6a1300-846a-4a36-b973-fbef074c252c?lang=pt_BR"><img src="https://img.shields.io/badge/CNN%20Image%20Classification-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/47a4ba32-c13c-4ec4-a6ec-7392e41e0a03?lang=pt_BR"><img src="https://img.shields.io/badge/GANs%20%26%20Stable%20Diffusion-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/862469d8-fb51-4072-a109-a48d76e25a00?lang=pt_BR"><img src="https://img.shields.io/badge/Audio%20Deep%20Learning-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+
+**NLP & Linguagem**
+
+<a href="https://cursos.alura.com.br/certificate/d7336716-8b6d-4ef3-a23e-f62171b1608d"><img src="https://img.shields.io/badge/NLP%20%26%20AI-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/5de2e5b7-bb85-4a87-a47c-41b90d855723"><img src="https://img.shields.io/badge/NLP%20Sentence%20Similarity-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/certificate/32299ff7-577d-4bc8-a3de-f2265655269c"><img src="https://img.shields.io/badge/LLM%20Chatbot%20Apps-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/user/vagnerkrg/course/hugging-face-transferindo-aprendizado-modelos-nlp/certificate"><img src="https://img.shields.io/badge/Hugging%20Face%20Transfer%20Learning-black?style=flat-square&logo=huggingface&logoColor=white"/></a>
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/explicabilidade-ia/certificate"><img src="https://img.shields.io/badge/Explicabilidade%20em%20IA-black?style=flat-square"/></a>
 
 **Visão Computacional**
 
@@ -184,12 +196,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 <a href="https://cursos.alura.com.br/certificate/6a869bd0-f2f9-4920-bd65-3cb3e6f8100c"><img src="https://img.shields.io/badge/Extreme%20Programming-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/user/vagnerkrg/course/metodologia-agil-fundamentos-cientistas-dados/certificate"><img src="https://img.shields.io/badge/Metodologia%20%C3%81gil%20para%20Cientistas%20de%20Dados-black?style=flat-square"/></a>
 
-**Fundamentos de Programação**
-
-<a href="https://cursos.alura.com.br/user/vagnerkrg/course/computacao-fundamentos-computacao-pensamento-computacional/certificate"><img src="https://img.shields.io/badge/Pensamento%20Computacional-black?style=flat-square"/></a>
-
 </details>
-
 
 ## 📚 Em Formação Agora
 
