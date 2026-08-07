@@ -81,7 +81,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 **Data Science**
 
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1148995/certificate"><img src="https://img.shields.io/badge/Data%20Science%20Career-black?style=flat-square"/></a>
-<a href="https://cursos.alura.com.br/certificate/a8be99db-cc7d-481d-90dd-f07619aabfa8"><img src="https://img.shields.io/badge/Data%20Science%20Career%20II-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1149002/certificate"><img src="https://img.shields.io/badge/Data%20Science%20Career%20II-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1149043/certificate"><img src="https://img.shields.io/badge/Data%20Science%20III-black?style=flat-square"/></a>
 
 **Fundamentos de Programação para IA**
