@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="mailto:vagnerkrg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1149002/certificate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vagnerferreiradata/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/5524992995944"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=0D1117"></p>
