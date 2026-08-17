@@ -207,7 +207,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 
 ## 📚 Em Formação Agora
 
-<sub>Cursando **Engenharia de Agentes de IA** (Alura) — módulo atual: **Nível 2, Machine Learning, Deep Learning e Fine Tuning**.</sub>
+<sub>Cursando **Engenharia de Agentes de IA** (Alura) — módulo atual: **Nível 3 - MLOps: operando sistemas de IA em produção**.</sub>
 
 ## 📊 GitHub Stats
 
