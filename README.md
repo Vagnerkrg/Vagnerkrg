@@ -50,21 +50,19 @@ V1.28 — Observability 🚧
 > <sub>Alguns repositórios públicos do perfil representam exercícios acadêmicos e registros de aprendizado; os projetos de maior destaque refletem trabalhos autorais e de engenharia aplicada.</sub>
 
 ---
-
 ## 🧠 Stack Técnica
 
 **Data Science & ML**
 Python · SQL · Pandas/NumPy · Scikit-learn · XGBoost · EDA · Estatística Avançada e Teste de Hipóteses · Feature Engineering · Séries Temporais (Prophet, Statsmodels)
 
 **IA, LLMs & RAG**
-LLMs · LangChain · RAG (arquiteturas avançadas) · Agentes de IA (Function Calling/Tools) · LlamaIndex · Vector Databases · Hugging Face (transfer learning) · NLP (TF-IDF, N-grams, análise de sentimentos) · Chatbots com LLM · Deep Learning (Keras/TensorFlow) · Visão Computacional (OpenCV) · Explicabilidade em IA (XAI)
+LLMs · LangChain · LangGraph (multiagentes) · Protocolos de Agentes (MCP/A2A/AG-UI/BFA) · RAG (arquiteturas avançadas) · Agentes de IA (Function Calling/Tools) · LlamaIndex · Vector Databases · PyTorch (redes neurais, RNN, CNN, Transformers) · Modelos de Difusão · Hugging Face (transfer learning) · NLP (TF-IDF, N-grams, análise de sentimentos) · Chatbots com LLM · Deep Learning (Keras/TensorFlow) · Visão Computacional (OpenCV) · Explicabilidade em IA (XAI)
 
 **Engenharia de Dados & Cloud**
 Apache Spark/PySpark · AWS (S3, Glue, Data Lake) · PostgreSQL · SQLite · Arquitetura modular · Testes automatizados · MLOps (deploy, automação e monitoramento de modelos) · Quality Assurance · Metodologias Ágeis (Scrum, XP) · CI/CD · Microsserviços · Git/GitHub · Documentação técnica e ADRs
 
 **Automação & Visualização**
 Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas complexas) · n8n · Docker · Integração de APIs
-
 ---
 
 ## 🎓 Certificações
