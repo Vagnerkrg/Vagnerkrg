@@ -50,6 +50,7 @@ V1.28 — Observability 🚧
 > <sub>Alguns repositórios públicos do perfil representam exercícios acadêmicos e registros de aprendizado; os projetos de maior destaque refletem trabalhos autorais e de engenharia aplicada.</sub>
 
 ---
+
 ## 🧠 Stack Técnica
 
 **Data Science & ML**
@@ -63,6 +64,7 @@ Apache Spark/PySpark · AWS (S3, Glue, Data Lake) · PostgreSQL · SQLite · Arq
 
 **Automação & Visualização**
 Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas complexas) · n8n · Docker · Integração de APIs
+
 ---
 
 ## 🎓 Certificações
