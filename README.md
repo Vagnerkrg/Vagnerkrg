@@ -19,34 +19,41 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Vagnerkrg&label=Profile%20Views&style=flat&color=0D1117"></p>
 
 
-<h2>
-💎 Projeto em Destaque  
+ <h2>
+💎 Projeto em Destaque
 </h2>
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
 
-Plataforma de inteligência cognitiva construída sobre LLMs, arquitetura de agentes autônomos e Decision Intelligence, capaz de transformar perguntas em linguagem natural em ciclos completos de raciocínio, planejamento, execução, memória, avaliação cognitiva e melhoria contínua.
+Plataforma de engenharia de IA para construção de agentes cognitivos com LLMs — raciocínio, planejamento, execução, memória, avaliação, aprendizado e evolução autônoma.
 
-O sistema evolui por capacidades cognitivas independentes — Reasoning, Planning, Execution, Decision Intelligence, Long-Term Memory, Memory Intelligence, Cognitive Evaluation, Reflection, Learning e Self-Improvement — seguindo um processo próprio de engenharia:
-(Capability Definition → Architecture Blueprint → ADR → Domain Modeling → Contracts → Implementation → Automated Tests → Validation → Documentation → Release).
+```text
+V1.27 — Cognitive Learning Integration ✅
+V1.28 — Observability 🚧
+1084 automated tests passing
+```
 
-Stack: Python · LLMs · Arquitetura de Agentes · Decision Intelligence · Long-Term Memory · Memory Intelligence · Cognitive Evaluation · Self-Improvement · RAG · LlamaIndex · Vector Databases · FastAPI · Machine Learning · Testes Automatizados (Pytest)
+**Stack:** Python · LLMs · Agentic AI · Cognitive Architecture · RAG · Decision Intelligence · Memory Intelligence · Cognitive Learning · Autonomous Evolution · FastAPI · LlamaIndex · Vector Databases · Pytest · GitHub Actions
 
 **Destaques de engenharia:**
 
-* 🏗️ Arquitetura cognitiva modular baseada em capacidades independentes (Reasoning → Planning → Execution → Decision Intelligence → Long-Term Memory → Memory Intelligence → Cognitive Evaluation → Reflection → Learning → Self-Improvement)
-* 🤖 Arquitetura de agentes com ciclo completo de inteligência, incluindo raciocínio, planejamento, execução, memória contextual, reflexão e evolução contínua
-* 🧠 Memory Intelligence Layer implementada (V1.24) para avaliação, relevância, consolidação e utilização inteligente de memórias no ciclo dos agentes
-* 📊 Cognitive Evaluation Layer em desenvolvimento (V1.25) para medir qualidade cognitiva, desempenho dos agentes e evolução dos processos inteligentes
-* 🧪 Suite de testes automatizados cobrindo Domain, Contracts, Services, Integration e Runtime para cada capacidade da plataforma (817 testes passando)
-* ⚙️ Pipeline de CI configurado via GitHub Actions, executando toda a suíte de testes automaticamente a cada mudança — erros são identificados e corrigidos rapidamente, garantindo confiabilidade para uso do projeto
-* 📄 Documentação técnica estruturada por Architecture Blueprints, ADRs, Domain Modeling, Contracts e documentação de releases
-* 🔀 Evolução orientada por capacidades (Capability-Driven Engineering), com versionamento incremental, milestones, issues, pull requests, histórico arquitetural e validação contínua por testes automatizados
+* 🏗️ **Arquitetura cognitiva modular** — capacidades independentes e testáveis: Reasoning → Planning → Execution → Memory → Evaluation → Learning → Evolution, cada uma evoluindo sem acoplar as demais
+* 🧠 **Cognitive Learning Layer (V1.27)** — fecha o ciclo entre experiência e evolução: `Experience → Evaluation → Learning → Knowledge → Memory → Optimization → Evolution → Adaptation`
+* 🤖 **Agent Runtime integrado** — Cognitive Learning Loop injetado no runtime via dependency injection, mantendo o motor de decisão de evolução desacoplado do domínio de aprendizado
+* 💾 **Memory Intelligence Layer** — relevância, ranking e consolidação de memórias implementados, sustentando decisões futuras dos agentes
+* 📊 **Cognitive Evaluation** — camada de métricas cognitivas operacional, medindo qualidade de decisão e desempenho dos agentes
+* 🧪 **Engenharia orientada a capacidades** — 1084 testes automatizados cobrindo domain, services, integrations e runtime, com CI via GitHub Actions, ADRs e milestones versionadas a cada evolução
+
+```text
+V1.27 — Cognitive Learning ✅
+        ↓
+V1.28 — Observability 🚧
+```
 
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions"><img src="https://img.shields.io/badge/CI%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
 
-> <sub>Alguns dos repositórios públicos do meu perfil são exercícios e projetos de curso — mantidos como registro de aprendizado, não como entregas de portfólio.</sub>
+> <sub>Alguns repositórios públicos do perfil representam exercícios acadêmicos e registros de aprendizado; os projetos de maior destaque refletem trabalhos autorais e de engenharia aplicada.</sub>
 
 ---
 
