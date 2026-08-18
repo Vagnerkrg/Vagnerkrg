@@ -161,6 +161,12 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 <a href="https://cursos.alura.com.br/certificate/6d6a1300-846a-4a36-b973-fbef074c252c?lang=pt_BR"><img src="https://img.shields.io/badge/CNN%20Image%20Classification-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/47a4ba32-c13c-4ec4-a6ec-7392e41e0a03?lang=pt_BR"><img src="https://img.shields.io/badge/GANs%20%26%20Stable%20Diffusion-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a href="https://cursos.alura.com.br/certificate/862469d8-fb51-4072-a109-a48d76e25a00?lang=pt_BR"><img src="https://img.shields.io/badge/Audio%20Deep%20Learning-black?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/treinando-rede-neural-pytorch/certificate"><img src="https://img.shields.io/badge/Training%20a%20Neural%20Network%20(PyTorch)-black?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/rnn-redes-neurais-recorrentes-deep-learning-pytorch/certificate"><img src="https://img.shields.io/badge/RNN%20(PyTorch)-black?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/cnn-redes-neurais-convolucionais-deep-learning-pytorch/certificate"><img src="https://img.shields.io/badge/CNN%20(PyTorch)-black?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/pytorch-transformers/certificate"><img src="https://img.shields.io/badge/Transformers%20(PyTorch)-black?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/modelos-difusao-fundamentos-aplicacoes-avancadas/certificate"><img src="https://img.shields.io/badge/Diffusion%20Models-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/hugging-face-explorando-aplicando-solucoes-modelos-ia/certificate"><img src="https://img.shields.io/badge/Hugging%20Face-black?style=flat-square&logo=huggingface&logoColor=white"/></a>
 
 **NLP & Linguagem**
 
@@ -209,6 +215,8 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 ## 📚 Em Formação Agora
 
 <sub>Cursando **Engenharia de Agentes de IA** (Alura) — módulo atual: **Nível 3 - MLOps: operando sistemas de IA em produção**.</sub>
+
+
 
 ## 📊 GitHub Stats
 
