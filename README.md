@@ -27,12 +27,6 @@
 
 Plataforma de engenharia de IA para construção de agentes cognitivos com LLMs — raciocínio, planejamento, execução, memória, avaliação, aprendizado e evolução autônoma.
 
-```text
-V1.27 — Cognitive Learning Integration ✅
-V1.28 — Observability 🚧
-1084 automated tests passing
-```
-
 **Stack:** Python · LLMs · Agentic AI · Cognitive Architecture · RAG · Decision Intelligence · Memory Intelligence · Cognitive Learning · Autonomous Evolution · FastAPI · LlamaIndex · Vector Databases · Pytest · GitHub Actions
 
 **Destaques de engenharia:**
