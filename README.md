@@ -20,7 +20,7 @@ Atuo com Ciência de Dados, Engenharia de Dados e Engenharia de Agentes de IA, c
 
 
  <h2>
-💎 Projeto em Destaque.
+💎 Projeto em Destaque
 </h2>
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
