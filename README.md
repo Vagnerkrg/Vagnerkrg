@@ -25,24 +25,7 @@ Atuo com Ciência de Dados, Engenharia de Dados e Engenharia de Agentes de IA, c
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
 
-Plataforma de engenharia de IA para construção de agentes cognitivos com LLMs — raciocínio, planejamento, execução, memória, avaliação, aprendizado e evolução autônoma.
-
-**Stack:** Python · LLMs · Agentic AI · Cognitive Architecture · RAG · Decision Intelligence · Memory Intelligence · Cognitive Learning · Autonomous Evolution · FastAPI · LlamaIndex · Vector Databases · Pytest · GitHub Actions
-
-**Destaques de engenharia:**
-
-* 🏗️ **Arquitetura cognitiva modular** — capacidades independentes e testáveis: Reasoning → Planning → Execution → Memory → Evaluation → Learning → Evolution, cada uma evoluindo sem acoplar as demais
-* 🧠 **Cognitive Learning Layer (V1.27)** — fecha o ciclo entre experiência e evolução: `Experience → Evaluation → Learning → Knowledge → Memory → Optimization → Evolution → Adaptation`
-* 🤖 **Agent Runtime integrado** — Cognitive Learning Loop injetado no runtime via dependency injection, mantendo o motor de decisão de evolução desacoplado do domínio de aprendizado
-* 💾 **Memory Intelligence Layer** — relevância, ranking e consolidação de memórias implementados, sustentando decisões futuras dos agentes
-* 📊 **Cognitive Evaluation** — camada de métricas cognitivas operacional, medindo qualidade de decisão e desempenho dos agentes
-* 🧪 **Engenharia orientada a capacidades** — 1084 testes automatizados cobrindo domain, services, integrations e runtime, com CI via GitHub Actions, ADRs e milestones versionadas a cada evolução
-
-```text
-V1.27 — Cognitive Learning ✅
-        ↓
-V1.28 — Observability 🚧
-```
+Plataforma de engenharia de agentes cognitivos com arquitetura modular (Reasoning → Planning → Execution → Memory → Evaluation → Learning → Evolution) (`Experience → Evaluation → Learning → Knowledge → Memory → Optimization → Evolution → Adaptation`). 1084 testes automatizados, CI via GitHub Actions, ADRs e milestones versionadas a cada evolução.
 
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions"><img src="https://img.shields.io/badge/CI%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
