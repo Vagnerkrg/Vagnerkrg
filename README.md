@@ -72,7 +72,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 
 **🏆 Certificados de Conclusão de Formação**
 
-<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/certificate"><img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/badge-ds-concluido.svg"/></a>&nbsp;&nbsp;&nbsp;<a href="https://cursos.alura.com.br/career/path/engenharia-de-ia/certificate"><img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/badge-em-andamento.svg"/></a>
+<a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/certificate"><img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/badge-ds-concluido.svg"/></a>&nbsp;&nbsp;&nbsp;<a href="https://cursos.alura.com.br/career/path/engenharia-de-ia/certificate"><img src="https://raw.githubusercontent.com/Vagnerkrg/Vagnerkrg/main/badge-ia-concluido.svg"/></a>
 
 
 <details>
