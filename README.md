@@ -71,7 +71,7 @@ APIs · n8n · Streamlit · Dash · Power BI · Advanced Excel
 </summary>
 <br>
 
-<b>Data Science</b>
+<b>Ciência de Dados</b>
 
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1148995/certificate"><img src="https://img.shields.io/badge/Data%20Science%20Career%20I-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/career/path/ciencia-de-dados/1149002/certificate"><img src="https://img.shields.io/badge/Data%20Science%20Career%20II-black?style=flat-square"/></a>
