@@ -40,7 +40,7 @@ Infraestrutura distribuída **Windows + Moto G7/Termux + PC Worker**, conectada 
 
 ---
 
-🧠 Technical Stack
+### 🧠 Technical Stack
 
 Data Science & ML
 Python · SQL · Pandas · NumPy · Scikit-learn · XGBoost · Statistics · Hypothesis Testing · Feature Engineering · Time Series (Prophet, Statsmodels)
