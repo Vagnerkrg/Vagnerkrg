@@ -231,7 +231,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 
 ## 📚 Em Formação Agora
 
-<sub>Cursando **Engenharia de Agentes de IA** (Alura) — módulo atual: **Nível 3 - MLOps: operando sistemas de IA em produção**.</sub>
+<sub>Cursando **AppSec: Desenvolvimento Seguro de Aplicações** (Alura) — módulo atual: **Nível 1 - SSDLC, OWASP Top 10 e Threat Modeling**.</sub>
 
 
 
