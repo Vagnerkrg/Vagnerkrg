@@ -88,7 +88,7 @@ Power BI · Streamlit · Dash · Excel Avançado (tabelas dinâmicas, fórmulas 
 
 **Engenharia de Agentes de IA**
 
-<a href="href=https://cursos.alura.com.br/user/vagnerkrg/course/checkpoint-engenharia-ia-nivel1/certificate"><img src="https://img.shields.io/badge/Engenharia%20de%20Agentes%20de%20IA%20I-black?style=flat-square"/></a>
+<a href="https://cursos.alura.com.br/user/vagnerkrg/course/checkpoint-engenharia-ia-nivel1/certificate"><img src="https://img.shields.io/badge/Engenharia%20de%20Agentes%20de%20IA%20I-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/user/vagnerkrg/course/checkpoint-engenharia-ia-nivel2/certificate"><img src="https://img.shields.io/badge/Engenharia%20de%20Agentes%20de%20IA%20II-black?style=flat-square"/></a>
 <a href="https://cursos.alura.com.br/user/vagnerkrg/course/checkpoint-engenharia-ia-nivel3/certificate"><img src="https://img.shields.io/badge/Engenharia%20de%20Agentes%20de%20IA%20III-black?style=flat-square"/></a>
 
