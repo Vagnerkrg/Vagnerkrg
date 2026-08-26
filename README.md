@@ -25,7 +25,7 @@ Atuo com Ciência de Dados, Engenharia de Dados e Engenharia de Agentes de IA, c
 
 ### [LLM Data Intelligence System](https://github.com/Vagnerkrg/llm-data-intelligence-system)
 
-Plataforma de engenharia de agentes cognitivos com arquitetura modular (Reasoning → Planning → Execution → Memory → Evaluation → Learning → Evolution) (`Experience → Evaluation → Learning → Knowledge → Memory → Optimization → Evolution → Adaptation`). 1084 testes automatizados, CI via GitHub Actions, ADRs e milestones versionadas a cada evolução.
+Plataforma de engenharia de agentes cognitivos com arquitetura modular de **Reasoning → Planning → Execution → Memory → Evaluation → Learning → Evolution**, evoluindo para um ciclo de **Experience → Evaluation → Learning → Knowledge → Memory → Optimization → Evolution → Adaptation**. **1.303 testes automatizados**, CI via GitHub Actions, observabilidade, contratos API/UI, ADRs e evolução versionada por milestones.
 
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions"><img src="https://img.shields.io/badge/CI%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
