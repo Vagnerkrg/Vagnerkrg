@@ -221,7 +221,7 @@ APIs · n8n · Streamlit · Dash · Power BI · Advanced Excel
 
 ## 📚 Em Formação Agora
 
-<sub>Cursando **AppSec: Desenvolvimento Seguro de Aplicações** (Alura) — módulo atual: **Nível 1 - SSDLC, OWASP Top 10 e Threat Modeling**.</sub>
+<sub>**Cursando** AppSec: Desenvolvimento Seguro de Aplicações (Alura) — módulo atual: Nível 1 - SSDLC, OWASP Top 10 e Threat Modeling.</sub>
 
 
 
