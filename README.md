@@ -32,7 +32,7 @@ Plataforma de engenharia de agentes cognitivos com arquitetura modular de **Reas
 
 ### Moto G7 Distributed Video Automation Platform — Remote Control & Orchestration
 
-Infraestrutura distribuída Windows + Moto G7/Termux + PC Worker, conectada por Tailscale + SSH por chave, para controle e orquestração de uma pipeline de automação de vídeos. Inclui Scheduler, filas por Tiers, estado persistente, execução não assistida, monitoramento read-only, Watcher e publicação, validada ponta a ponta em execução real, com tratamento de falhas e otimização de latência de 8,3s para 2,16s (~74%).
+Infraestrutura distribuída **Windows + Moto G7/Termux + PC Worker**, conectada por **Tailscale + SSH por chave**, para controle e orquestração de uma pipeline de automação de vídeos. Inclui **Scheduler, filas por Tiers, estado persistente, execução não assistida, monitoramento read-only, Watcher e publicação**, validada ponta a ponta em execução real, com tratamento de falhas e otimização de latência de **8,3s para 2,16s (~74%)**.
 
 <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/>
 
