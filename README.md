@@ -30,9 +30,9 @@ Plataforma de engenharia de agentes cognitivos com arquitetura modular de **Reas
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/Vagnerkrg/llm-data-intelligence-system/actions"><img src="https://img.shields.io/badge/CI%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
 
-### Moto G7 Personal Server — Remote Administration & Video Automation Control
+### Moto G7 Distributed Video Automation Platform — Remote Control & Orchestration
 
-Infraestrutura de automação distribuída entre **Windows + Moto G7/Termux**, administrada remotamente via **Tailscale + SSH por chave** e responsável pela execução de uma suíte de automação de vídeos com **fila por Tiers, estado persistente, monitoramento somente leitura e controle operacional**. Arquitetura validada **ponta a ponta em execução real**, incluindo publicação confirmada, tratamento de falhas, recuperação operacional e troubleshooting de engenharia.
+Infraestrutura distribuída Windows + Moto G7/Termux + PC Worker, conectada por Tailscale + SSH por chave, para controle e orquestração de uma pipeline de automação de vídeos. Inclui Scheduler, filas por Tiers, estado persistente, execução não assistida, monitoramento read-only, Watcher e publicação, validada ponta a ponta em execução real, com tratamento de falhas e otimização de latência de 8,3s para 2,16s (~74%).
 
 <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white"/>
 
