@@ -12,7 +12,7 @@ Atuo em Ciência de Dados, Engenharia de Dados e Engenharia de Agentes de IA, pr
 
 
 <p align="center">
-  <a href="mailto:vagnerkrg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vagnerdev01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vagnerferreiradata/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/5524992995944"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
