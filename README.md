@@ -8,7 +8,7 @@
 <h4 align="center">Python · SQL · PySpark · AWS · LLMs · RAG</h4>
 
 <p align="center">
-Atuo em Ciência de Dados, Engenharia de Dados e Engenharia de Agentes de IA, projetando pipelines de dados, modelos de Machine Learning e sistemas inteligentes baseados em LLMs, RAG e arquiteturas agentic. Uno análise estatística, engenharia de software e MLOps para projetar, desenvolver e evoluir sistemas orientados a dados e IA.
+Atuo em Ciência de Dados, Engenharia de Dados e Engenharia de Agentes de IA, projetando pipelines de dados, modelos de Machine Learning e sistemas inteligentes baseados em LLMs, RAG e arquiteturas agentic. Uno análise estatística, engenharia de software e MLOps para projetar, desenvolver e evoluir sistemas orientados a dados e IA....
 
 
 <p align="center">
